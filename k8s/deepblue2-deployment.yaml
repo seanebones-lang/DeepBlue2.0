@@ -1,0 +1,151 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: deepblue2-api
+  namespace: deepblue2
+  labels:
+    app: deepblue2-api
+    version: "2.0.0"
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: deepblue2-api
+  template:
+    metadata:
+      labels:
+        app: deepblue2-api
+        version: "2.0.0"
+    spec:
+      containers:
+      - name: deepblue2-api
+        image: deepblue2:latest
+        ports:
+        - containerPort: 8000
+          name: http
+        env:
+        - name: ENVIRONMENT
+          value: "production"
+        - name: POSTGRES_URL
+          value: "postgresql://deepblue:deepblue@postgres-service:5432/deepblue2"
+        - name: REDIS_URL
+          value: "redis://redis-service:6379/0"
+        - name: MONGODB_URL
+          value: "mongodb://mongodb-service:27017/deepblue2"
+        - name: OPENAI_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: deepblue2-secrets
+              key: openai-api-key
+        - name: ANTHROPIC_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: deepblue2-secrets
+              key: anthropic-api-key
+        - name: GOOGLE_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: deepblue2-secrets
+              key: google-api-key
+        resources:
+          requests:
+            memory: "512Mi"
+            cpu: "250m"
+          limits:
+            memory: "2Gi"
+            cpu: "1000m"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 5
+          periodSeconds: 5
+        volumeMounts:
+        - name: data-volume
+          mountPath: /app/data
+        - name: logs-volume
+          mountPath: /app/logs
+      volumes:
+      - name: data-volume
+        persistentVolumeClaim:
+          claimName: deepblue2-data-pvc
+      - name: logs-volume
+        persistentVolumeClaim:
+          claimName: deepblue2-logs-pvc
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: deepblue2-api-service
+  namespace: deepblue2
+spec:
+  selector:
+    app: deepblue2-api
+  ports:
+  - port: 8000
+    targetPort: 8000
+    name: http
+  type: ClusterIP
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: deepblue2-api-loadbalancer
+  namespace: deepblue2
+spec:
+  selector:
+    app: deepblue2-api
+  ports:
+  - port: 80
+    targetPort: 8000
+    name: http
+  type: LoadBalancer
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: deepblue2-data-pvc
+  namespace: deepblue2
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 10Gi
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: deepblue2-logs-pvc
+  namespace: deepblue2
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 5Gi
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: deepblue2-secrets
+  namespace: deepblue2
+type: Opaque
+data:
+  openai-api-key: ""  # Base64 encoded
+  anthropic-api-key: ""  # Base64 encoded
+  google-api-key: ""  # Base64 encoded
+  pinecone-api-key: ""  # Base64 encoded
+  sentry-dsn: ""  # Base64 encoded
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: deepblue2
+

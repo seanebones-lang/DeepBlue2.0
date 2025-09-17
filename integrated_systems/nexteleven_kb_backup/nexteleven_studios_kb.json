@@ -1,0 +1,2660 @@
+{
+  "metadata": {
+    "title": "NextEleven Studios & Blue9.0 Knowledge Base",
+    "version": "1.0",
+    "last_updated": "2025-09-15",
+    "description": "Comprehensive knowledge base for NextEleven Studios and Blue9.0 enterprise AI platform",
+    "categories": [
+      "backend",
+      "company_info",
+      "custom_enterprise_buyout",
+      "deployment",
+      "features",
+      "frontend",
+      "integrations",
+      "leadership",
+      "marketing",
+      "pilots",
+      "pricing",
+      "products",
+      "security",
+      "support",
+      "technical",
+      "upgrades_downgrades",
+      "company_overview",
+      "technology_stack",
+      "market_positioning",
+      "contact",
+      "privacy",
+      "functionality"
+    ],
+    "total_questions": 163,
+    "source": "NextEleven Studios Official Documentation"
+  },
+  "knowledge_base": [
+    {
+      "id": "kb_001",
+      "category": "company_info",
+      "question": "Who is the CEO of NextEleven Studios?",
+      "answer": "The CEO of NextEleven is Sean F. McDonnell, who also serves as Founder, Designer, and Developer.",
+      "keywords": [
+        "CEO",
+        "Sean F. McDonnell",
+        "founder",
+        "leadership",
+        "NextEleven Studios",
+        "Who"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_002",
+      "category": "products",
+      "question": "What is Blue9.0?",
+      "answer": "Blue9.0 is the latest enterprise AI platform developed by NextEleven, designed for advanced RAG (Retrieval-Augmented Generation) and AI chatbot implementations.",
+      "keywords": [
+        "Blue9.0",
+        "AI platform",
+        "RAG",
+        "chatbot",
+        "enterprise",
+        "What",
+        "NextEleven Studios"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_003",
+      "category": "leadership",
+      "question": "What roles does Sean F. McDonnell hold in Blue9.0 development?",
+      "answer": "Sean F. McDonnell is the CEO, Founder, Designer, and Developer of Blue9.0, overseeing its architecture, design, and deployment.",
+      "keywords": [
+        "Sean F. McDonnell",
+        "CEO",
+        "founder",
+        "designer",
+        "developer",
+        "roles",
+        "Blue9.0",
+        "What"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_004",
+      "category": "technical",
+      "question": "What is a RAG engine in Blue9.0?",
+      "answer": "The RAG engine in Blue9.0 is a proprietary system that integrates retrieved information into AI-generated responses, allowing contextually accurate and up-to-date answers.",
+      "keywords": [
+        "RAG engine",
+        "retrieval",
+        "AI responses",
+        "contextual",
+        "proprietary",
+        "What",
+        "Blue9.0"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_005",
+      "category": "features",
+      "question": "How customizable is Blue9.0's RAG engine?",
+      "answer": "Blue9.0's RAG engine is highly customizable, supporting multiple data sources, adjustable retrieval algorithms, and user-defined prompt templates.",
+      "keywords": [
+        "customizable",
+        "RAG engine",
+        "data sources",
+        "algorithms",
+        "prompt templates",
+        "How",
+        "Blue9.0"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_006",
+      "category": "integrations",
+      "question": "Can Blue9.0 integrate with other platforms?",
+      "answer": "Yes, Blue9.0 can integrate with CRM systems like HubSpot and Salesforce, email, web chat, and other APIs through its flexible integration layer.",
+      "keywords": [
+        "integrations",
+        "CRM",
+        "HubSpot",
+        "Salesforce",
+        "email",
+        "web chat",
+        "APIs"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_007",
+      "category": "features",
+      "question": "What analytics features does Blue9.0 provide?",
+      "answer": "Blue9.0 provides analytics features including query counts, sentiment analysis, performance metrics, and detailed usage dashboards.",
+      "keywords": [
+        "analytics",
+        "query counts",
+        "sentiment analysis",
+        "performance metrics",
+        "dashboards"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_008",
+      "category": "features",
+      "question": "Does Blue9.0 support multi-modal inputs?",
+      "answer": "Blue9.0 supports text-based inputs and can be configured for multi-modal inputs depending on the deployment and integration setup.",
+      "keywords": [
+        "multi-modal",
+        "text inputs",
+        "deployment",
+        "integration"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_009",
+      "category": "security",
+      "question": "How secure is Blue9.0?",
+      "answer": "Blue9.0 implements metadata tagging, error handling, and optional sentiment validation, ensuring data security and accuracy.",
+      "keywords": [
+        "security",
+        "metadata tagging",
+        "error handling",
+        "sentiment validation",
+        "data security"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_010",
+      "category": "support",
+      "question": "What support options are available for Blue9.0 users?",
+      "answer": "Support varies by package: basic email support, ticketing with 12-hour responses, or priority multi-channel support depending on the subscription tier.",
+      "keywords": [
+        "support",
+        "email support",
+        "ticketing",
+        "12-hour response",
+        "multi-channel",
+        "subscription"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_011",
+      "category": "pricing",
+      "question": "Who can use Blue9.0?",
+      "answer": "Blue9.0 is designed for solopreneurs, small retailers, mid-sized e-commerce businesses, and enterprise clients depending on the subscription package.",
+      "keywords": [
+        "target users",
+        "solopreneurs",
+        "small retailers",
+        "e-commerce",
+        "enterprise",
+        "subscription"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_012",
+      "category": "pricing",
+      "question": "What is the entry-level package for Blue9.0?",
+      "answer": "The entry-level package, called Zest, is for solopreneurs and small retailers, offering 1 bot, 1,000 queries per month, standard RAG, email/web chat integration, and basic analytics.",
+      "keywords": [
+        "Zest package",
+        "entry-level",
+        "solopreneurs",
+        "1 bot",
+        "1000 queries",
+        "standard RAG"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_013",
+      "category": "pricing",
+      "question": "What is the price of the Zest package?",
+      "answer": "The Zest package costs $19 per month or $190 per year.",
+      "keywords": [
+        "Zest price",
+        "$19",
+        "$190",
+        "monthly",
+        "yearly"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_014",
+      "category": "pricing",
+      "question": "What is the Vibe package in Blue9.0?",
+      "answer": "The Vibe package targets growing businesses and mid-sized e-commerce, offering 2 bots, 5,000 queries per month, advanced RAG modes, CRM integration, and sentiment analysis.",
+      "keywords": [
+        "Vibe package",
+        "growing businesses",
+        "2 bots",
+        "5000 queries",
+        "advanced RAG",
+        "CRM integration"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_015",
+      "category": "pricing",
+      "question": "What is the price of the Vibe package?",
+      "answer": "The Vibe package costs $59 per month or $590 per year.",
+      "keywords": [
+        "Vibe price",
+        "$59",
+        "$590",
+        "monthly",
+        "yearly"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_016",
+      "category": "deployment",
+      "question": "Can Blue9.0 be deployed on-premises?",
+      "answer": "Yes, Blue9.0 supports local, cloud, and hybrid deployments, depending on customer requirements.",
+      "keywords": [
+        "on-premises",
+        "local deployment",
+        "cloud",
+        "hybrid",
+        "deployment options"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_017",
+      "category": "features",
+      "question": "Does Blue9.0 provide real-time analytics?",
+      "answer": "Yes, Blue9.0 provides real-time dashboards showing query usage, bot performance, and engagement metrics.",
+      "keywords": [
+        "real-time analytics",
+        "dashboards",
+        "query usage",
+        "bot performance",
+        "engagement metrics"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_018",
+      "category": "integrations",
+      "question": "What frontends can Blue9.0 integrate with?",
+      "answer": "Blue9.0 can be embedded in web applications using iframes, React, Streamlit, or API integrations for custom frontends.",
+      "keywords": [
+        "frontends",
+        "iframes",
+        "React",
+        "Streamlit",
+        "API integrations",
+        "custom frontends"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_019",
+      "category": "deployment",
+      "question": "Can I test Blue9.0 locally?",
+      "answer": "Yes, you can run Blue9.0 on port 8000 locally and connect a frontend (e.g., React on port 3000) to test integration.",
+      "keywords": [
+        "local testing",
+        "port 8000",
+        "React",
+        "port 3000",
+        "integration testing"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_020",
+      "category": "deployment",
+      "question": "Does Blue9.0 support hybrid deployment?",
+      "answer": "Yes, hybrid deployment allows parts of Blue9.0 to run locally while other components run in the cloud, providing flexibility and security.",
+      "keywords": [
+        "hybrid deployment",
+        "local components",
+        "cloud components",
+        "flexibility",
+        "security"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_021",
+      "category": "leadership",
+      "question": "Who is responsible for design decisions in Blue9.0?",
+      "answer": "Sean F. McDonnell leads design decisions as the Designer, ensuring cohesive UI/UX and brand consistency.",
+      "keywords": [
+        "design decisions",
+        "Sean McDonnell",
+        "Designer",
+        "UI/UX",
+        "brand consistency"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_022",
+      "category": "features",
+      "question": "Does Blue9.0 provide automated RAG updates?",
+      "answer": "Yes, Blue9.0 can fetch updated knowledge from connected sources automatically and integrate it into responses.",
+      "keywords": [
+        "automated RAG updates",
+        "knowledge sources",
+        "automatic integration",
+        "responses"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_023",
+      "category": "features",
+      "question": "Can Blue9.0 integrate with multiple data sources simultaneously?",
+      "answer": "Yes, Blue9.0 supports multiple data sources for RAG, including CSV, databases, APIs, and web scraping endpoints.",
+      "keywords": [
+        "multiple data sources",
+        "CSV",
+        "databases",
+        "APIs",
+        "web scraping",
+        "endpoints"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_024",
+      "category": "pricing",
+      "question": "What is the maximum number of bots supported in enterprise packages?",
+      "answer": "Enterprise packages can support unlimited bots depending on the subscription and deployment scale.",
+      "keywords": [
+        "enterprise packages",
+        "unlimited bots",
+        "subscription",
+        "deployment scale"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_025",
+      "category": "technical",
+      "question": "How are RAG responses generated in Blue9.0?",
+      "answer": "RAG responses are generated by combining retrieved context from connected data sources with AI-generated text to produce accurate and contextual answers.",
+      "keywords": [
+        "RAG responses",
+        "retrieved context",
+        "data sources",
+        "AI-generated text",
+        "contextual answers"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_026",
+      "category": "features",
+      "question": "Can I customize prompts in Blue9.0?",
+      "answer": "Yes, prompts and templates can be fully customized for specific workflows, industries, or business goals.",
+      "keywords": [
+        "customize prompts",
+        "templates",
+        "workflows",
+        "industries",
+        "business goals"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_027",
+      "category": "features",
+      "question": "Does Blue9.0 have streaming capabilities?",
+      "answer": "Yes, Blue9.0 can stream responses in real-time to frontends via WebSocket or API streaming endpoints.",
+      "keywords": [
+        "streaming capabilities",
+        "real-time",
+        "WebSocket",
+        "API streaming",
+        "endpoints"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_028",
+      "category": "pricing",
+      "question": "What is the Kryon package in Blue9.0?",
+      "answer": "Kryon is an advanced enterprise package offering unlimited bots, high query limits, multi-modal support, advanced analytics, and priority support.",
+      "keywords": [
+        "Kryon package",
+        "enterprise",
+        "unlimited bots",
+        "high query limits",
+        "multi-modal",
+        "advanced analytics"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_029",
+      "category": "features",
+      "question": "Can Blue9.0 handle multi-lingual queries?",
+      "answer": "Yes, Blue9.0 supports multi-lingual queries depending on language model configuration and deployment.",
+      "keywords": [
+        "multi-lingual queries",
+        "language model",
+        "configuration",
+        "deployment"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_030",
+      "category": "deployment",
+      "question": "Is there a sandbox mode for Blue9.0?",
+      "answer": "Yes, developers can use sandbox mode to safely test integrations, bots, and RAG configurations before production.",
+      "keywords": [
+        "sandbox mode",
+        "developers",
+        "test integrations",
+        "bots",
+        "RAG configurations",
+        "production"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_031",
+      "category": "leadership",
+      "question": "Who is responsible for development in Blue9.0?",
+      "answer": "Sean F. McDonnell leads development as the primary Developer, overseeing code architecture, system integrations, and deployment pipelines.",
+      "keywords": [
+        "development",
+        "Sean McDonnell",
+        "Developer",
+        "code architecture",
+        "system integrations",
+        "deployment pipelines"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_032",
+      "category": "security",
+      "question": "What security measures are included in Blue9.0?",
+      "answer": "Blue9.0 includes metadata tagging, error handling, role-based access, optional sentiment validation, and secure API authentication.",
+      "keywords": [
+        "security measures",
+        "metadata tagging",
+        "error handling",
+        "role-based access",
+        "sentiment validation",
+        "API authentication"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_033",
+      "category": "support",
+      "question": "Does Blue9.0 have ticketing support?",
+      "answer": "Yes, depending on the package, Blue9.0 offers ticketing support with response SLAs, including 12-hour responses for mid-tier packages.",
+      "keywords": [
+        "ticketing support",
+        "response SLAs",
+        "12-hour responses",
+        "mid-tier packages"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_034",
+      "category": "integrations",
+      "question": "Can Blue9.0 integrate with email systems?",
+      "answer": "Yes, Blue9.0 supports email integrations for notifications, queries, and workflow automation.",
+      "keywords": [
+        "email integrations",
+        "notifications",
+        "queries",
+        "workflow automation"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_035",
+      "category": "deployment",
+      "question": "Can I deploy Blue9.0 on my own server?",
+      "answer": "Yes, Blue9.0 supports self-hosted deployments for clients who require full control over their infrastructure.",
+      "keywords": [
+        "self-hosted deployments",
+        "own server",
+        "full control",
+        "infrastructure"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_036",
+      "category": "integrations",
+      "question": "Does Blue9.0 support web chat integrations?",
+      "answer": "Yes, Blue9.0 can integrate web chat widgets into websites for direct user interaction with AI bots.",
+      "keywords": [
+        "web chat integrations",
+        "chat widgets",
+        "websites",
+        "user interaction",
+        "AI bots"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_037",
+      "category": "deployment",
+      "question": "What deployment options are available for Blue9.0?",
+      "answer": "Blue9.0 can be deployed locally, in the cloud, or in a hybrid configuration depending on the client's requirements.",
+      "keywords": [
+        "deployment options",
+        "locally",
+        "cloud",
+        "hybrid configuration",
+        "client requirements"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_038",
+      "category": "technical",
+      "question": "How does Blue9.0 handle error handling?",
+      "answer": "Blue9.0 includes comprehensive error handling, logging, and fallback responses to maintain system stability.",
+      "keywords": [
+        "error handling",
+        "logging",
+        "fallback responses",
+        "system stability"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_039",
+      "category": "features",
+      "question": "Can Blue9.0 provide sentiment analysis?",
+      "answer": "Yes, sentiment analysis is included in certain packages, allowing evaluation of user query tone and intent.",
+      "keywords": [
+        "sentiment analysis",
+        "packages",
+        "user query tone",
+        "intent"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_040",
+      "category": "features",
+      "question": "Is metadata tagging supported in Blue9.0?",
+      "answer": "Yes, Blue9.0 supports metadata tagging for knowledge sources and RAG responses to improve retrieval accuracy.",
+      "keywords": [
+        "metadata tagging",
+        "knowledge sources",
+        "RAG responses",
+        "retrieval accuracy"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_041",
+      "category": "features",
+      "question": "Who can access Blue9.0 analytics?",
+      "answer": "Analytics dashboards are available to package subscribers and can be customized for role-based access.",
+      "keywords": [
+        "analytics dashboards",
+        "package subscribers",
+        "customized",
+        "role-based access"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_042",
+      "category": "features",
+      "question": "How often does Blue9.0 update its knowledge base?",
+      "answer": "Blue9.0 can be configured to automatically refresh knowledge from connected sources in real-time or scheduled intervals.",
+      "keywords": [
+        "knowledge base updates",
+        "automatically refresh",
+        "connected sources",
+        "real-time",
+        "scheduled intervals"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_043",
+      "category": "integrations",
+      "question": "Does Blue9.0 support third-party APIs?",
+      "answer": "Yes, Blue9.0 can integrate with a variety of third-party APIs for CRM, analytics, and custom business logic.",
+      "keywords": [
+        "third-party APIs",
+        "CRM",
+        "analytics",
+        "custom business logic"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_044",
+      "category": "features",
+      "question": "Can Blue9.0 generate custom reports?",
+      "answer": "Yes, users can generate detailed reports on bot performance, query trends, and user interactions.",
+      "keywords": [
+        "custom reports",
+        "bot performance",
+        "query trends",
+        "user interactions"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_045",
+      "category": "features",
+      "question": "Are there pre-configured templates in Blue9.0?",
+      "answer": "Yes, Blue9.0 provides pre-configured prompt templates that can be customized to specific business workflows.",
+      "keywords": [
+        "pre-configured templates",
+        "prompt templates",
+        "customized",
+        "business workflows"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_046",
+      "category": "technical",
+      "question": "Can Blue9.0 handle high query volumes?",
+      "answer": "Yes, enterprise packages are designed to handle high volumes of queries with performance scaling.",
+      "keywords": [
+        "high query volumes",
+        "enterprise packages",
+        "performance scaling"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_047",
+      "category": "features",
+      "question": "Is Blue9.0 mobile-friendly?",
+      "answer": "Yes, Blue9.0 interfaces and embeds are fully responsive and mobile-optimized.",
+      "keywords": [
+        "mobile-friendly",
+        "responsive",
+        "mobile-optimized"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_048",
+      "category": "integrations",
+      "question": "Can I customize the UI for Blue9.0 chat?",
+      "answer": "Yes, the chat interface can be customized using React components or frontend templates.",
+      "keywords": [
+        "customize UI",
+        "chat interface",
+        "React components",
+        "frontend templates"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_049",
+      "category": "features",
+      "question": "Does Blue9.0 provide real-time updates?",
+      "answer": "Yes, both bot responses and analytics dashboards can be streamed in real-time.",
+      "keywords": [
+        "real-time updates",
+        "bot responses",
+        "analytics dashboards",
+        "streamed"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_050",
+      "category": "deployment",
+      "question": "Can Blue9.0 integrate with Nginx reverse proxy?",
+      "answer": "Yes, Blue9.0 can be deployed behind an Nginx reverse proxy to manage multiple domains and ports.",
+      "keywords": [
+        "Nginx reverse proxy",
+        "multiple domains",
+        "ports"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_051",
+      "category": "technical",
+      "question": "What programming languages are used in Blue9.0?",
+      "answer": "Blue9.0 primarily uses Python for backend development and React/JavaScript for frontend integrations.",
+      "keywords": [
+        "programming languages",
+        "Python",
+        "backend development",
+        "React",
+        "JavaScript",
+        "frontend"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_052",
+      "category": "deployment",
+      "question": "Does Blue9.0 support hybrid AI deployment?",
+      "answer": "Yes, Blue9.0 supports hybrid AI deployment with components running locally and in the cloud.",
+      "keywords": [
+        "hybrid AI deployment",
+        "local components",
+        "cloud components"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_053",
+      "category": "features",
+      "question": "Can Blue9.0 be used for internal knowledge management?",
+      "answer": "Yes, Blue9.0 can be deployed internally to provide AI-assisted knowledge retrieval within an organization.",
+      "keywords": [
+        "internal knowledge management",
+        "AI-assisted knowledge retrieval",
+        "organization"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_054",
+      "category": "leadership",
+      "question": "Who oversees the design of Blue9.0's user experience?",
+      "answer": "Sean F. McDonnell oversees the UI/UX design, ensuring consistent, intuitive, and visually appealing interfaces.",
+      "keywords": [
+        "user experience",
+        "Sean McDonnell",
+        "UI/UX design",
+        "consistent",
+        "intuitive",
+        "visually appealing"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_055",
+      "category": "support",
+      "question": "Is there a free trial for Blue9.0?",
+      "answer": "Yes, select packages can offer trial periods for evaluation before subscribing.",
+      "keywords": [
+        "free trial",
+        "trial periods",
+        "evaluation",
+        "subscribing"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_056",
+      "category": "features",
+      "question": "Does Blue9.0 support sentiment validation?",
+      "answer": "Yes, advanced packages include sentiment validation to ensure AI responses match intended emotional tone.",
+      "keywords": [
+        "sentiment validation",
+        "advanced packages",
+        "AI responses",
+        "emotional tone"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_057",
+      "category": "integrations",
+      "question": "Can I embed Blue9.0 chat in multiple websites?",
+      "answer": "Yes, the chat can be embedded on multiple websites using iframe or API integration.",
+      "keywords": [
+        "embed chat",
+        "multiple websites",
+        "iframe",
+        "API integration"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_058",
+      "category": "features",
+      "question": "Does Blue9.0 have version control for knowledge bases?",
+      "answer": "Yes, Blue9.0 maintains versioning for all connected knowledge bases to track updates and changes.",
+      "keywords": [
+        "version control",
+        "knowledge bases",
+        "versioning",
+        "track updates",
+        "changes"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_059",
+      "category": "deployment",
+      "question": "Can Blue9.0 handle multi-tenant setups?",
+      "answer": "Yes, enterprise clients can configure Blue9.0 for multi-tenant environments with isolated data sets.",
+      "keywords": [
+        "multi-tenant setups",
+        "enterprise clients",
+        "isolated data sets"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_060",
+      "category": "pricing",
+      "question": "What is the Jynx package?",
+      "answer": "Jynx is a mid-tier package providing enhanced RAG features, multiple bots, and intermediate analytics for growing businesses. The Jynx package costs $299 per month.",
+      "keywords": [
+        "Jynx package",
+        "mid-tier",
+        "enhanced RAG features",
+        "multiple bots",
+        "intermediate analytics",
+        "growing businesses"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_061",
+      "category": "features",
+      "question": "Can Blue9.0 log user interactions?",
+      "answer": "Yes, Blue9.0 logs all queries, responses, and session metrics for auditing and analysis.",
+      "keywords": [
+        "log user interactions",
+        "queries",
+        "responses",
+        "session metrics",
+        "auditing",
+        "analysis"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_062",
+      "category": "security",
+      "question": "Does Blue9.0 have role-based access control?",
+      "answer": "Yes, Blue9.0 supports role-based access to control which users can view or edit data and analytics.",
+      "keywords": [
+        "role-based access control",
+        "users",
+        "view",
+        "edit",
+        "data",
+        "analytics"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_063",
+      "category": "integrations",
+      "question": "Can Blue9.0 send notifications via email?",
+      "answer": "Yes, Blue9.0 can send alerts, query summaries, and workflow notifications via email integration.",
+      "keywords": [
+        "notifications",
+        "email",
+        "alerts",
+        "query summaries",
+        "workflow notifications"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_064",
+      "category": "features",
+      "question": "Can I schedule knowledge refreshes in Blue9.0?",
+      "answer": "Yes, you can schedule automated refreshes for connected knowledge sources at configurable intervals.",
+      "keywords": [
+        "schedule knowledge refreshes",
+        "automated refreshes",
+        "connected knowledge sources",
+        "configurable intervals"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_065",
+      "category": "pricing",
+      "question": "What is the Rush package?",
+      "answer": "Rush is a high-tier package providing advanced RAG modes, multiple bots, analytics dashboards, and priority support. The Rush package costs $129 per month.",
+      "keywords": [
+        "Rush package",
+        "high-tier",
+        "advanced RAG modes",
+        "multiple bots",
+        "analytics dashboards",
+        "priority support"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_066",
+      "category": "integrations",
+      "question": "Does Blue9.0 integrate with Slack or Teams?",
+      "answer": "Yes, Blue9.0 can be configured to integrate with collaboration tools like Slack or Microsoft Teams.",
+      "keywords": [
+        "Slack",
+        "Teams",
+        "collaboration tools",
+        "Microsoft Teams"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_067",
+      "category": "deployment",
+      "question": "Is Blue9.0 cloud-compatible?",
+      "answer": "Yes, Blue9.0 can run on cloud infrastructure for scalability and high availability.",
+      "keywords": [
+        "cloud-compatible",
+        "cloud infrastructure",
+        "scalability",
+        "high availability"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_068",
+      "category": "integrations",
+      "question": "Can I customize the appearance of Blue9.0 chat widget?",
+      "answer": "Yes, the widget's colors, fonts, and branding can be customized to match your website or product theme.",
+      "keywords": [
+        "customize appearance",
+        "chat widget",
+        "colors",
+        "fonts",
+        "branding",
+        "website",
+        "product theme"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_069",
+      "category": "features",
+      "question": "Does Blue9.0 offer API access for bots?",
+      "answer": "Yes, all packages include API endpoints to programmatically interact with AI bots.",
+      "keywords": [
+        "API access",
+        "bots",
+        "API endpoints",
+        "programmatically interact",
+        "AI bots"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_070",
+      "category": "features",
+      "question": "Can Blue9.0 track usage per bot?",
+      "answer": "Yes, analytics dashboards provide bot-specific usage metrics including queries, response time, and engagement.",
+      "keywords": [
+        "track usage per bot",
+        "analytics dashboards",
+        "bot-specific usage metrics",
+        "queries",
+        "response time",
+        "engagement"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_071",
+      "category": "features",
+      "question": "Does Blue9.0 allow prompt versioning?",
+      "answer": "Yes, prompts and templates can be versioned to manage changes over time and roll back if needed.",
+      "keywords": [
+        "prompt versioning",
+        "templates",
+        "manage changes",
+        "roll back"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_072",
+      "category": "security",
+      "question": "What security protocols does Blue9.0 support?",
+      "answer": "Blue9.0 supports HTTPS, token-based authentication, role-based access control, and optional metadata tagging for secure operations.",
+      "keywords": [
+        "security protocols",
+        "HTTPS",
+        "token-based authentication",
+        "role-based access control",
+        "metadata tagging",
+        "secure operations"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_073",
+      "category": "deployment",
+      "question": "Can I deploy Blue9.0 on multiple servers?",
+      "answer": "Yes, Blue9.0 supports distributed deployments for high availability and load balancing.",
+      "keywords": [
+        "multiple servers",
+        "distributed deployments",
+        "high availability",
+        "load balancing"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_074",
+      "category": "features",
+      "question": "Does Blue9.0 provide logs for debugging?",
+      "answer": "Yes, detailed logs are available for debugging queries, API calls, and system performance.",
+      "keywords": [
+        "logs for debugging",
+        "detailed logs",
+        "queries",
+        "API calls",
+        "system performance"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_075",
+      "category": "technical",
+      "question": "Is Blue9.0 optimized for speed?",
+      "answer": "Yes, Blue9.0 is optimized for fast query retrieval, low-latency responses, and efficient data processing.",
+      "keywords": [
+        "optimized for speed",
+        "fast query retrieval",
+        "low-latency responses",
+        "efficient data processing"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_076",
+      "category": "pricing",
+      "question": "Does Blue9.0 offer usage limits per package?",
+      "answer": "Yes, each package defines bot count, monthly queries, and feature access limits.",
+      "keywords": [
+        "usage limits per package",
+        "bot count",
+        "monthly queries",
+        "feature access limits"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_077",
+      "category": "features",
+      "question": "Can Blue9.0 provide recommendations based on analytics?",
+      "answer": "Yes, Blue9.0 can generate recommendations for workflow improvements and knowledge base updates.",
+      "keywords": [
+        "recommendations based on analytics",
+        "workflow improvements",
+        "knowledge base updates"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_078",
+      "category": "features",
+      "question": "Is Blue9.0 suitable for enterprise clients?",
+      "answer": "Yes, Blue9.0 includes enterprise-grade features such as multi-bot support, RAG customization, analytics, and security compliance.",
+      "keywords": [
+        "suitable for enterprise clients",
+        "enterprise-grade features",
+        "multi-bot support",
+        "RAG customization",
+        "analytics",
+        "security compliance"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_079",
+      "category": "leadership",
+      "question": "Who manages development sprints in Blue9.0?",
+      "answer": "Sean F. McDonnell oversees development sprints, prioritizing features and ensuring timely releases.",
+      "keywords": [
+        "development sprints",
+        "Sean McDonnell",
+        "prioritizing features",
+        "timely releases"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_080",
+      "category": "security",
+      "question": "Does Blue9.0 allow API key management?",
+      "answer": "Yes, API keys can be generated, revoked, and scoped to specific bots or users for security.",
+      "keywords": [
+        "API key management",
+        "generated",
+        "revoked",
+        "scoped",
+        "specific bots",
+        "users",
+        "security"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_081",
+      "category": "features",
+      "question": "Can I use Blue9.0 for customer support automation?",
+      "answer": "Yes, Blue9.0 is suitable for customer support chatbots, ticket handling, and workflow automation.",
+      "keywords": [
+        "customer support automation",
+        "chatbots",
+        "ticket handling",
+        "workflow automation"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_082",
+      "category": "features",
+      "question": "Does Blue9.0 support analytics export?",
+      "answer": "Yes, dashboards can export metrics in CSV or JSON formats for reporting or analysis.",
+      "keywords": [
+        "analytics export",
+        "dashboards",
+        "export metrics",
+        "CSV",
+        "JSON formats",
+        "reporting",
+        "analysis"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_083",
+      "category": "features",
+      "question": "Can Blue9.0 handle multiple languages simultaneously?",
+      "answer": "Yes, depending on configuration, Blue9.0 can support multi-lingual interactions concurrently.",
+      "keywords": [
+        "multiple languages simultaneously",
+        "configuration",
+        "multi-lingual interactions",
+        "concurrently"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_084",
+      "category": "support",
+      "question": "Is there a dedicated support team for enterprise Blue9.0 packages?",
+      "answer": "Yes, higher-tier packages include priority support with dedicated personnel.",
+      "keywords": [
+        "dedicated support team",
+        "enterprise packages",
+        "higher-tier packages",
+        "priority support",
+        "dedicated personnel"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_085",
+      "category": "integrations",
+      "question": "Can Blue9.0 be embedded in mobile apps?",
+      "answer": "Yes, the chat can be embedded via API or webview into mobile applications.",
+      "keywords": [
+        "embedded in mobile apps",
+        "API",
+        "webview",
+        "mobile applications"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_086",
+      "category": "deployment",
+      "question": "Does Blue9.0 support testing in development environments?",
+      "answer": "Yes, sandbox and staging environments are supported for safe testing before production deployment.",
+      "keywords": [
+        "testing in development environments",
+        "sandbox",
+        "staging environments",
+        "safe testing",
+        "production deployment"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_087",
+      "category": "leadership",
+      "question": "How are features updated in Blue9.0?",
+      "answer": "Features are updated through release cycles overseen by Sean F. McDonnell, including new analytics, RAG improvements, and integrations.",
+      "keywords": [
+        "features updated",
+        "release cycles",
+        "Sean McDonnell",
+        "new analytics",
+        "RAG improvements",
+        "integrations"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_088",
+      "category": "pricing",
+      "question": "What are all the pricing tiers for Blue9.0?",
+      "answer": "Blue9.0 offers 6 pricing tiers: Zest ($19/mo), Vibe ($59/mo), Rush ($129/mo), Jynx ($299/mo), Zynix ($599/mo), and Kryon ($999/mo). Each tier includes different features, query limits, and support levels.",
+      "keywords": [
+        "pricing",
+        "tiers",
+        "packages",
+        "Zest",
+        "Vibe",
+        "Rush",
+        "Jynx",
+        "Zynix",
+        "Kryon",
+        "Blue9.0"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_089",
+      "category": "company_info",
+      "question": "Who is Sean F. McDonnell?",
+      "answer": "Sean F. McDonnell is the CEO, Founder, Designer, and Developer of NextEleven and the Blue9.0 platform. He oversees all aspects of the company including strategic direction, technical development, and design.",
+      "keywords": [
+        "Sean F. McDonnell",
+        "CEO",
+        "founder",
+        "designer",
+        "developer",
+        "NextEleven Studios",
+        "Blue9.0"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_090",
+      "category": "support",
+      "question": "What support levels are available in Blue9.0?",
+      "answer": "Blue9.0 offers 6 support levels: Email (24h), Email+Ticket (12h), Email+Ticket+Chat (8h), Priority Chat (4h), Phone Support (2h), and Dedicated AM (24/7, 1h). Support level depends on your subscription tier.",
+      "keywords": [
+        "support",
+        "levels",
+        "Email",
+        "Ticket",
+        "Chat",
+        "Phone",
+        "Dedicated AM",
+        "Blue9.0"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_091",
+      "category": "support",
+      "question": "What is Email support in Blue9.0?",
+      "answer": "Email support provides basic assistance via email with 24-hour response time. It's available for Zest tier customers and includes access to documentation and FAQ resources.",
+      "keywords": [
+        "Email",
+        "support",
+        "24-hour",
+        "response",
+        "Zest",
+        "documentation",
+        "FAQ"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_092",
+      "category": "support",
+      "question": "What is Ticket support in Blue9.0?",
+      "answer": "Ticket support provides structured issue tracking and resolution through a ticketing system. It's available for Vibe tier and above, with 12-hour response time and priority queue access.",
+      "keywords": [
+        "Ticket",
+        "support",
+        "tracking",
+        "resolution",
+        "Vibe",
+        "12-hour",
+        "priority"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_093",
+      "category": "support",
+      "question": "What is Chat support in Blue9.0?",
+      "answer": "Chat support provides real-time assistance through live chat with screen sharing capabilities. It's available for Rush tier and above, with 8-hour response time and dedicated chat agents.",
+      "keywords": [
+        "Chat",
+        "support",
+        "real-time",
+        "live chat",
+        "screen sharing",
+        "Rush",
+        "8-hour"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_094",
+      "category": "company_info",
+      "question": "Who is Sean McDonnell?",
+      "answer": "Sean McDonnell (Sean F. McDonnell) is the CEO, Founder, Designer, and Developer of NextEleven. He leads the development of Blue9.0 and oversees all company operations.",
+      "keywords": [
+        "Sean McDonnell",
+        "Sean F. McDonnell",
+        "CEO",
+        "founder",
+        "NextEleven Studios"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_095",
+      "category": "support",
+      "question": "How can I get help with Blue9.0?",
+      "answer": "You can get help with Blue9.0 through multiple channels: email support, ticketing system, live chat, phone support, or dedicated account manager, depending on your subscription tier. All support channels provide access to documentation and training resources.",
+      "keywords": [
+        "help",
+        "assistance",
+        "support",
+        "channels",
+        "email",
+        "ticket",
+        "chat",
+        "phone",
+        "Blue9.0"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_096",
+      "category": "support",
+      "question": "What assistance is available for Blue9.0 users?",
+      "answer": "Blue9.0 provides comprehensive assistance including technical support, training programs, documentation, video tutorials, community forums, and dedicated account management for enterprise customers.",
+      "keywords": [
+        "assistance",
+        "help",
+        "support",
+        "training",
+        "documentation",
+        "tutorials",
+        "community",
+        "Blue9.0"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_097",
+      "category": "backend",
+      "question": "What is the purpose of the NextEleven backend?",
+      "answer": "The backend handles queries, enforces tier limits, tracks pilot/demo usage, manages upgrades/downgrades, monitors overages, logs requests, and integrates with the RAG engine for AI responses.",
+      "keywords": [
+        "backend",
+        "purpose",
+        "queries",
+        "tier limits",
+        "pilot",
+        "demo",
+        "upgrades",
+        "downgrades",
+        "overages",
+        "RAG engine"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_098",
+      "category": "backend",
+      "question": "Which framework is used for the backend?",
+      "answer": "FastAPI is used for REST endpoints, async handling, and high concurrency support.",
+      "keywords": [
+        "framework",
+        "FastAPI",
+        "REST endpoints",
+        "async",
+        "concurrency",
+        "backend"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_099",
+      "category": "backend",
+      "question": "How are user tiers defined?",
+      "answer": "Tiers are defined from Zest → Kryon with specific monthly query limits, pilot/demo allowances, support levels, and pricing.",
+      "keywords": [
+        "user tiers",
+        "defined",
+        "Zest",
+        "Kryon",
+        "query limits",
+        "pilot",
+        "demo",
+        "support levels",
+        "pricing"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_100",
+      "category": "backend",
+      "question": "How is query usage tracked?",
+      "answer": "Query usage is tracked using in-memory dicts, Redis, or SQLite for persistent storage; counts reset each billing cycle.",
+      "keywords": [
+        "query usage",
+        "tracked",
+        "in-memory",
+        "Redis",
+        "SQLite",
+        "persistent storage",
+        "billing cycle"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_101",
+      "category": "backend",
+      "question": "What happens when query limits are reached?",
+      "answer": "Users receive an HTTP 429 error indicating the limit is reached and may upgrade or pay overage fees.",
+      "keywords": [
+        "query limits",
+        "reached",
+        "HTTP 429",
+        "error",
+        "upgrade",
+        "overage fees"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_102",
+      "category": "backend",
+      "question": "How is the RAG engine integrated?",
+      "answer": "A placeholder function 'run_rag(query)' exists; it can be replaced with Blue9.0 RAG engine in production.",
+      "keywords": [
+        "RAG engine",
+        "integrated",
+        "placeholder",
+        "function",
+        "Blue9.0",
+        "production"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_103",
+      "category": "backend",
+      "question": "How are pilot/demo users identified?",
+      "answer": "Pilot/demo users are flagged with 'is_pilot': True and have limited query allowances.",
+      "keywords": [
+        "pilot",
+        "demo",
+        "users",
+        "identified",
+        "flagged",
+        "is_pilot",
+        "limited",
+        "query allowances"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_104",
+      "category": "backend",
+      "question": "Can the backend handle concurrent queries?",
+      "answer": "Yes, FastAPI's async functions enable handling multiple simultaneous requests efficiently.",
+      "keywords": [
+        "backend",
+        "concurrent",
+        "queries",
+        "FastAPI",
+        "async",
+        "functions",
+        "simultaneous",
+        "requests"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_105",
+      "category": "upgrades_downgrades",
+      "question": "How are upgrades and downgrades handled?",
+      "answer": "Upgrades are applied immediately via async functions, while downgrades are scheduled at the end of the billing cycle with credit applied.",
+      "keywords": [
+        "upgrades",
+        "downgrades",
+        "handled",
+        "immediately",
+        "async",
+        "functions",
+        "scheduled",
+        "billing cycle",
+        "credit"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_106",
+      "category": "upgrades_downgrades",
+      "question": "How is billing proration calculated?",
+      "answer": "Proration uses the formula: (new_tier_price - current_tier_price) * (days_left / 30).",
+      "keywords": [
+        "billing",
+        "proration",
+        "calculated",
+        "formula",
+        "new_tier_price",
+        "current_tier_price",
+        "days_left"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_107",
+      "category": "frontend",
+      "question": "How is the frontend made responsive?",
+      "answer": "Using CSS media queries, horizontal scroll wrappers, and mobile-friendly table styling.",
+      "keywords": [
+        "frontend",
+        "responsive",
+        "CSS",
+        "media queries",
+        "horizontal scroll",
+        "mobile-friendly",
+        "table styling"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_108",
+      "category": "frontend",
+      "question": "Are downloadable PDFs available?",
+      "answer": "Yes, PDFs of tier tables can be generated for marketing or client download.",
+      "keywords": [
+        "downloadable",
+        "PDFs",
+        "available",
+        "tier tables",
+        "generated",
+        "marketing",
+        "client",
+        "download"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_109",
+      "category": "frontend",
+      "question": "How are pilot/demo trials managed in the frontend?",
+      "answer": "Frontend buttons link to pilot endpoints and show remaining queries or trial duration dynamically.",
+      "keywords": [
+        "pilot",
+        "demo",
+        "trials",
+        "managed",
+        "frontend",
+        "buttons",
+        "endpoints",
+        "remaining queries",
+        "trial duration",
+        "dynamically"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_110",
+      "category": "pilots",
+      "question": "What anti-abuse mechanisms exist for pilots?",
+      "answer": "CAPTCHA, IP throttling, and query caps are implemented to prevent abuse.",
+      "keywords": [
+        "anti-abuse",
+        "mechanisms",
+        "pilots",
+        "CAPTCHA",
+        "IP throttling",
+        "query caps",
+        "prevent",
+        "abuse"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_111",
+      "category": "pilots",
+      "question": "How are onboarding tutorials delivered?",
+      "answer": "Onboarding tutorials are provided in markdown or HTML format for self-serve pilot users.",
+      "keywords": [
+        "onboarding",
+        "tutorials",
+        "delivered",
+        "markdown",
+        "HTML",
+        "format",
+        "self-serve",
+        "pilot",
+        "users"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_112",
+      "category": "upgrades_downgrades",
+      "question": "How are upgrades/downgrades communicated to users?",
+      "answer": "Users receive notifications of feature changes, credit applications, and upcoming downgrades.",
+      "keywords": [
+        "upgrades",
+        "downgrades",
+        "communicated",
+        "users",
+        "notifications",
+        "feature changes",
+        "credit applications",
+        "upcoming"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_113",
+      "category": "support",
+      "question": "What are the support tiers?",
+      "answer": "Zest: Email, Vibe: Email+Ticket, Rush: Email+Ticket+Chat, Jynx: Priority Chat, Zynix: Phone Support, Kryon: Dedicated Account Manager 24/7.",
+      "keywords": [
+        "support",
+        "tiers",
+        "Zest",
+        "Email",
+        "Vibe",
+        "Ticket",
+        "Rush",
+        "Chat",
+        "Jynx",
+        "Priority",
+        "Zynix",
+        "Phone",
+        "Kryon",
+        "Dedicated Account Manager"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_114",
+      "category": "support",
+      "question": "How are escalations managed?",
+      "answer": "Escalation follows Email → Ticket → Chat → Priority → Phone → Dedicated Account Manager depending on tier.",
+      "keywords": [
+        "escalations",
+        "managed",
+        "Email",
+        "Ticket",
+        "Chat",
+        "Priority",
+        "Phone",
+        "Dedicated Account Manager",
+        "tier"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_115",
+      "category": "support",
+      "question": "Are SLA targets defined?",
+      "answer": "Yes, each support tier has recommended response times and escalation procedures.",
+      "keywords": [
+        "SLA",
+        "targets",
+        "defined",
+        "support tier",
+        "recommended",
+        "response times",
+        "escalation",
+        "procedures"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_116",
+      "category": "marketing",
+      "question": "How is NextEleven positioned for DFW clients?",
+      "answer": "Marketing emphasizes 'Built in DFW for DFW businesses', highlighting local pilot offers and discounts.",
+      "keywords": [
+        "NextEleven",
+        "positioned",
+        "DFW",
+        "clients",
+        "marketing",
+        "emphasizes",
+        "Built in DFW",
+        "local pilot",
+        "offers",
+        "discounts"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_117",
+      "category": "marketing",
+      "question": "What industries are highlighted in marketing?",
+      "answer": "Retail, healthcare, and agencies, each mapped to the appropriate tier packages.",
+      "keywords": [
+        "industries",
+        "highlighted",
+        "marketing",
+        "Retail",
+        "healthcare",
+        "agencies",
+        "mapped",
+        "appropriate",
+        "tier packages"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_118",
+      "category": "marketing",
+      "question": "Are SEO recommendations provided?",
+      "answer": "Yes, taglines like 'Zest → Kryon: DFW-Powered, World-Class AI' are suggested.",
+      "keywords": [
+        "SEO",
+        "recommendations",
+        "provided",
+        "taglines",
+        "Zest",
+        "Kryon",
+        "DFW-Powered",
+        "World-Class AI",
+        "suggested"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_119",
+      "category": "custom_enterprise_buyout",
+      "question": "What is included in the custom enterprise buyout?",
+      "answer": "One-time $1.2M licensing, full source code & IP transfer, unlimited bots & queries, dedicated account manager, 24/7 support, 30-day POC, and optional phased payments.",
+      "keywords": [
+        "custom enterprise buyout",
+        "included",
+        "one-time",
+        "$1.2M",
+        "licensing",
+        "source code",
+        "IP transfer",
+        "unlimited",
+        "bots",
+        "queries",
+        "dedicated account manager",
+        "24/7 support",
+        "30-day POC",
+        "phased payments"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_120",
+      "category": "custom_enterprise_buyout",
+      "question": "Can enterprise clients request custom tier configurations?",
+      "answer": "Yes, clients can define custom queries, bot counts, features, and pilot durations.",
+      "keywords": [
+        "enterprise clients",
+        "request",
+        "custom tier",
+        "configurations",
+        "define",
+        "custom queries",
+        "bot counts",
+        "features",
+        "pilot durations"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_121",
+      "category": "custom_enterprise_buyout",
+      "question": "Are ROI projections provided in enterprise buyouts?",
+      "answer": "Yes, phased payment plans and ROI calculations are included to guide investment decisions.",
+      "keywords": [
+        "ROI",
+        "projections",
+        "provided",
+        "enterprise buyouts",
+        "phased payment plans",
+        "ROI calculations",
+        "included",
+        "guide",
+        "investment decisions"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_122",
+      "category": "support",
+      "question": "Are proactive monitoring tools included?",
+      "answer": "Yes, endpoints such as /health and /metrics provide proactive system alerts.",
+      "keywords": [
+        "proactive",
+        "monitoring",
+        "tools",
+        "included",
+        "endpoints",
+        "/health",
+        "/metrics",
+        "provide",
+        "system alerts"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_123",
+      "category": "pilots",
+      "question": "Can pilot/demo queries be adjusted?",
+      "answer": "Yes, limits can be configured per tier or adjusted per enterprise client during pilot setup.",
+      "keywords": [
+        "pilot",
+        "demo",
+        "queries",
+        "adjusted",
+        "limits",
+        "configured",
+        "per tier",
+        "enterprise client",
+        "pilot setup"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_124",
+      "category": "support",
+      "question": "How are support scripts organized?",
+      "answer": "Call scripts and email templates are organized by tier to ensure consistent responses.",
+      "keywords": [
+        "support scripts",
+        "organized",
+        "call scripts",
+        "email templates",
+        "organized",
+        "by tier",
+        "ensure",
+        "consistent responses"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_125",
+      "category": "frontend",
+      "question": "Can frontend highlight promotional campaigns?",
+      "answer": "Yes, dynamic badges and tooltips can show seasonal offers, local DFW discounts, and trial periods.",
+      "keywords": [
+        "frontend",
+        "highlight",
+        "promotional campaigns",
+        "dynamic badges",
+        "tooltips",
+        "seasonal offers",
+        "local DFW discounts",
+        "trial periods"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_126",
+      "category": "upgrades_downgrades",
+      "question": "How is billing integrated with FastAPI?",
+      "answer": "Async functions communicate with Stripe or other billing services to process proration and payments.",
+      "keywords": [
+        "billing",
+        "integrated",
+        "FastAPI",
+        "async functions",
+        "communicate",
+        "Stripe",
+        "billing services",
+        "process",
+        "proration",
+        "payments"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_127",
+      "category": "backend",
+      "question": "Are historical usage reports available?",
+      "answer": "Yes, usage data is logged and can be queried for reporting, dashboards, and auditing.",
+      "keywords": [
+        "historical",
+        "usage reports",
+        "available",
+        "usage data",
+        "logged",
+        "queried",
+        "reporting",
+        "dashboards",
+        "auditing"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_128",
+      "category": "pilots",
+      "question": "Can admins view pilot usage statistics?",
+      "answer": "Yes, dashboards can display usage metrics, query counts, and pilot conversion rates.",
+      "keywords": [
+        "admins",
+        "view",
+        "pilot usage",
+        "statistics",
+        "dashboards",
+        "display",
+        "usage metrics",
+        "query counts",
+        "pilot conversion rates"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_129",
+      "category": "company_overview",
+      "question": "What is the official company name?",
+      "answer": "The official company name is NextEleven.",
+      "keywords": [
+        "company",
+        "name",
+        "official",
+        "NextEleven"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_130",
+      "category": "company_overview",
+      "question": "When was NextEleven founded?",
+      "answer": "NextEleven was founded in 2023.",
+      "keywords": [
+        "founded",
+        "2023",
+        "established",
+        "company history"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_131",
+      "category": "company_overview",
+      "question": "Where is NextEleven headquartered?",
+      "answer": "NextEleven was founded in 2023.",
+      "keywords": [
+        "headquarters",
+        "Dallas-Fort Worth",
+        "Texas",
+        "USA",
+        "location"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_132",
+      "category": "company_overview",
+      "question": "What is NextEleven's website?",
+      "answer": "NextEleven's official website is https://www.nexteleven.ai",
+      "keywords": [
+        "website",
+        "official",
+        "nexteleven.ai",
+        "URL"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_133",
+      "category": "company_overview",
+      "question": "What industry does NextEleven operate in?",
+      "answer": "NextEleven operates in Artificial Intelligence, SaaS, and Enterprise AI Solutions.",
+      "keywords": [
+        "industry",
+        "Artificial Intelligence",
+        "SaaS",
+        "Enterprise AI Solutions"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_134",
+      "category": "company_overview",
+      "question": "What is NextEleven's mission?",
+      "answer": "NextEleven's mission is to empower DFW businesses with world-class AI chatbots and automation solutions.",
+      "keywords": [
+        "mission",
+        "empower",
+        "DFW businesses",
+        "world-class",
+        "AI chatbots",
+        "automation solutions"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_135",
+      "category": "company_overview",
+      "question": "What are NextEleven's core values?",
+      "answer": "NextEleven's core values are Innovation, Reliability, Customer-Centric, and Scalable AI.",
+      "keywords": [
+        "values",
+        "core values",
+        "Innovation",
+        "Reliability",
+        "Customer-Centric",
+        "Scalable AI"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_136",
+      "category": "products",
+      "question": "What is the official product name?",
+      "answer": "The official product name is NextEleven AI Chatbot.",
+      "keywords": [
+        "product",
+        "name",
+        "official",
+        "NextEleven AI Chatbot"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_137",
+      "category": "products",
+      "question": "What type of AI system is the NextEleven AI Chatbot?",
+      "answer": "The NextEleven AI Chatbot is a RAG-powered AI Chatbot.",
+      "keywords": [
+        "type",
+        "AI system",
+        "RAG-powered",
+        "AI Chatbot"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_138",
+      "category": "products",
+      "question": "What are all the available product tiers?",
+      "answer": "The available product tiers are Zest, Vibe, Rush, Jynx, Zynix, and Kryon.",
+      "keywords": [
+        "tiers",
+        "available",
+        "Zest",
+        "Vibe",
+        "Rush",
+        "Jynx",
+        "Zynix",
+        "Kryon"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_139",
+      "category": "products",
+      "question": "What are the key product features?",
+      "answer": "Key product features include tiered query limits, pilot/demo flows, upgrade/downgrade management, overage tracking, custom enterprise buyout, async handling, and usage monitoring.",
+      "keywords": [
+        "features",
+        "key",
+        "tiered query limits",
+        "pilot",
+        "demo flows",
+        "upgrade",
+        "downgrade",
+        "management",
+        "overage tracking",
+        "custom enterprise buyout",
+        "async handling",
+        "usage monitoring"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_140",
+      "category": "products",
+      "question": "What backend technology is used?",
+      "answer": "The backend uses FastAPI + Redis/SQLite, with async query handling, Pydantic models, and RAG stub integration.",
+      "keywords": [
+        "backend",
+        "technology",
+        "FastAPI",
+        "Redis",
+        "SQLite",
+        "async",
+        "query handling",
+        "Pydantic models",
+        "RAG stub integration"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_141",
+      "category": "products",
+      "question": "What frontend technology is used?",
+      "answer": "The frontend uses HTML/CSS/JS responsive tables, PDF downloads, DFW branding, dynamic tooltips, and mobile-first design.",
+      "keywords": [
+        "frontend",
+        "technology",
+        "HTML",
+        "CSS",
+        "JS",
+        "responsive tables",
+        "PDF downloads",
+        "DFW branding",
+        "dynamic tooltips",
+        "mobile-first design"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_142",
+      "category": "products",
+      "question": "What AI engine powers the chatbot?",
+      "answer": "The chatbot is powered by the Blue9.0 RAG engine (stubbed for local testing).",
+      "keywords": [
+        "AI engine",
+        "powers",
+        "chatbot",
+        "Blue9.0",
+        "RAG engine",
+        "stubbed",
+        "local testing"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_143",
+      "category": "products",
+      "question": "What support system is available?",
+      "answer": "The support system includes tiered support from Email to Dedicated AM, with SLA targets and escalation workflows.",
+      "keywords": [
+        "support",
+        "system",
+        "tiered",
+        "Email",
+        "Dedicated AM",
+        "SLA targets",
+        "escalation workflows"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_144",
+      "category": "technology_stack",
+      "question": "What backend technologies are used?",
+      "answer": "Backend technologies include FastAPI, Python 3.9+, SQLite/Redis, async processing, and Pydantic models.",
+      "keywords": [
+        "backend",
+        "technologies",
+        "FastAPI",
+        "Python 3.9+",
+        "SQLite",
+        "Redis",
+        "async processing",
+        "Pydantic models"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_145",
+      "category": "technology_stack",
+      "question": "What frontend technologies are used?",
+      "answer": "Frontend technologies include HTML5, CSS3, JavaScript, with optional Bootstrap/Tailwind.",
+      "keywords": [
+        "frontend",
+        "technologies",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "Tailwind",
+        "optional"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_146",
+      "category": "technology_stack",
+      "question": "What AI technologies are used?",
+      "answer": "AI technologies include RAG (Retrieval-Augmented Generation) and the Blue9.0 engine.",
+      "keywords": [
+        "AI",
+        "technologies",
+        "RAG",
+        "Retrieval-Augmented Generation",
+        "Blue9.0 engine"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_147",
+      "category": "technology_stack",
+      "question": "What billing technologies are integrated?",
+      "answer": "Billing technologies include Stripe integration, proration support, and async upgrade/downgrade handling.",
+      "keywords": [
+        "billing",
+        "technologies",
+        "Stripe integration",
+        "proration support",
+        "async",
+        "upgrade",
+        "downgrade",
+        "handling"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_148",
+      "category": "technology_stack",
+      "question": "What deployment technologies are used?",
+      "answer": "Deployment technologies include Uvicorn server, cloud-ready architecture, and local-first DFW deployment.",
+      "keywords": [
+        "deployment",
+        "technologies",
+        "Uvicorn server",
+        "cloud-ready",
+        "architecture",
+        "local-first",
+        "DFW deployment"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_149",
+      "category": "market_positioning",
+      "question": "Who is the target audience?",
+      "answer": "The target audience includes DFW businesses, enterprise clients, retail, healthcare, and agencies.",
+      "keywords": [
+        "target audience",
+        "DFW businesses",
+        "enterprise clients",
+        "retail",
+        "healthcare",
+        "agencies"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_150",
+      "category": "market_positioning",
+      "question": "What is NextEleven's unique value proposition?",
+      "answer": "NextEleven's unique value proposition is DFW-first AI solutions with global-grade capabilities.",
+      "keywords": [
+        "unique value proposition",
+        "DFW-first",
+        "AI solutions",
+        "global-grade",
+        "capabilities"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_151",
+      "category": "market_positioning",
+      "question": "What is NextEleven's official tagline?",
+      "answer": "NextEleven's official tagline is 'From Zest to Kryon: DFW-Powered, World-Class AI'.",
+      "keywords": [
+        "tagline",
+        "official",
+        "From Zest to Kryon",
+        "DFW-Powered",
+        "World-Class AI"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_152",
+      "category": "market_positioning",
+      "question": "Does NextEleven offer local pilot programs?",
+      "answer": "Yes, NextEleven offers local pilot programs for DFW businesses.",
+      "keywords": [
+        "local pilot programs",
+        "DFW businesses",
+        "offers"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_153",
+      "category": "market_positioning",
+      "question": "What is included in the enterprise buyout package?",
+      "answer": "The enterprise buyout package includes $1.2M one-time license + annual $50k-$100k, 30-day POC, full IP & source code, dedicated AM, and unlimited bots & queries.",
+      "keywords": [
+        "enterprise buyout",
+        "package",
+        "$1.2M",
+        "one-time license",
+        "annual $50k-$100k",
+        "30-day POC",
+        "full IP",
+        "source code",
+        "dedicated AM",
+        "unlimited bots",
+        "queries"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_154",
+      "category": "contact",
+      "question": "What is the sales email address?",
+      "answer": "The sales email address is sales@nexteleven.ai.",
+      "keywords": [
+        "sales",
+        "email",
+        "address",
+        "sales@nexteleven.ai"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_155",
+      "category": "contact",
+      "question": "What is the support email address?",
+      "answer": "The support email address is support@nexteleven.ai",
+      "keywords": [
+        "support",
+        "email",
+        "address",
+        "support@nexteleven.ai"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_156",
+      "category": "contact",
+      "question": "What is the company phone number?",
+      "answer": "The company phone number is +1-214-555-1234",
+      "keywords": [
+        "phone",
+        "number",
+        "+1-214-555-1234"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_157",
+      "category": "contact",
+      "question": "What social media platforms does NextEleven use?",
+      "answer": "NextEleven uses LinkedIn, Twitter, YouTube, and GitHub for social media presence.",
+      "keywords": [
+        "social media",
+        "platforms",
+        "LinkedIn",
+        "Twitter",
+        "YouTube",
+        "GitHub"
+      ],
+      "priority": "medium",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_158",
+      "category": "contact",
+      "question": "What is NextEleven's LinkedIn URL?",
+      "answer": "NextEleven's LinkedIn URL is https://www.linkedin.com/company/nexteleven",
+      "keywords": [
+        "LinkedIn",
+        "URL",
+        "https://www.linkedin.com/company/nexteleven"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_159",
+      "category": "contact",
+      "question": "What is NextEleven's Twitter handle?",
+      "answer": "NextEleven's Twitter URL is https://twitter.com/nexteleven_ai",
+      "keywords": [
+        "Twitter",
+        "handle",
+        "https://twitter.com/nexteleven_ai"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_160",
+      "category": "contact",
+      "question": "What is NextEleven's YouTube channel?",
+      "answer": "NextEleven's YouTube URL is https://www.youtube.com/nexteleven",
+      "keywords": [
+        "YouTube",
+        "channel",
+        "https://www.youtube.com/nexteleven"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_161",
+      "category": "contact",
+      "question": "What is NextEleven's GitHub repository?",
+      "answer": "NextEleven's GitHub URL is https://github.com/nexteleven",
+      "keywords": [
+        "GitHub",
+        "repository",
+        "https://github.com/nexteleven"
+      ],
+      "priority": "low",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_162",
+      "category": "privacy",
+      "question": "What privacy features does Blue9.0 provide?",
+      "answer": "Blue9.0 provides comprehensive privacy features including data encryption, secure storage, GDPR compliance, and user data protection.",
+      "keywords": [
+        "privacy",
+        "features",
+        "encryption",
+        "secure storage",
+        "GDPR",
+        "compliance",
+        "data protection"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    },
+    {
+      "id": "kb_163",
+      "category": "functionality",
+      "question": "What core functionality does Blue9.0 offer?",
+      "answer": "Blue9.0 offers core functionality including RAG-powered responses, multi-modal processing, real-time chat, analytics, and customizable AI agents.",
+      "keywords": [
+        "core",
+        "functionality",
+        "RAG-powered",
+        "multi-modal",
+        "real-time",
+        "chat",
+        "analytics",
+        "customizable",
+        "AI agents"
+      ],
+      "priority": "high",
+      "last_updated": "2025-09-15"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

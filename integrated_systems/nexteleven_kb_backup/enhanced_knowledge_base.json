@@ -1,0 +1,2492 @@
+{
+  "knowledge": [
+    {
+      "question": "What's included in the Zest package?",
+      "answer": "The Zest package includes Basic AI chatbot, Email support, Standard integrations, Basic analytics for just $19/month. Perfect for Small businesses and solopreneurs. Consider upgrading to Vibe for even more features.",
+      "category": "packages",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Zest cost?",
+      "answer": "Zest is $19/month with significant savings on annual plans. It includes 1000 monthly queries and everything you need to succeed.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Who is Zest for?",
+      "answer": "Zest is perfect for Small businesses and solopreneurs. It provides the right balance of features and value for your business needs.",
+      "category": "packages",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Zest include basic ai chatbot?",
+      "answer": "Yes! Zest includes Basic AI chatbot. This feature helps you provide instant customer support and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Zest include email support?",
+      "answer": "Yes! Zest includes Email support. This feature helps you get help when you need it and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Zest include standard integrations?",
+      "answer": "Yes! Zest includes Standard integrations. This feature helps you connect with your existing tools and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Zest include basic analytics?",
+      "answer": "Yes! Zest includes Basic analytics. This feature helps you track performance and improve and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's included in the Vibe package?",
+      "answer": "The Vibe package includes Everything in Zest, Priority support, Advanced analytics, Social media integrations for just $59/month. Perfect for Growing businesses. Consider upgrading to Rush for even more features.",
+      "category": "packages",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Vibe cost?",
+      "answer": "Vibe is $59/month with significant savings on annual plans. It includes 5000 monthly queries and everything you need to succeed.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Who is Vibe for?",
+      "answer": "Vibe is perfect for Growing businesses. It provides the right balance of features and value for your business needs.",
+      "category": "packages",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Vibe include everything in zest?",
+      "answer": "Yes! Vibe includes Everything in Zest. This feature helps you improve your business operations and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Vibe include priority support?",
+      "answer": "Yes! Vibe includes Priority support. This feature helps you get faster help and resolution and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Vibe include advanced analytics?",
+      "answer": "Yes! Vibe includes Advanced analytics. This feature helps you gain deeper insights into performance and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Vibe include social media integrations?",
+      "answer": "Yes! Vibe includes Social media integrations. This feature helps you reach customers on their preferred platforms and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's included in the Rush package?",
+      "answer": "The Rush package includes Everything in Vibe, Custom branding, API access, Dedicated account manager for just $129/month. Perfect for Established businesses. Consider upgrading to Jynx for even more features.",
+      "category": "packages",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Rush cost?",
+      "answer": "Rush is $129/month with significant savings on annual plans. It includes 15000 monthly queries and everything you need to succeed.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Who is Rush for?",
+      "answer": "Rush is perfect for Established businesses. It provides the right balance of features and value for your business needs.",
+      "category": "packages",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Rush include everything in vibe?",
+      "answer": "Yes! Rush includes Everything in Vibe. This feature helps you improve your business operations and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Rush include custom branding?",
+      "answer": "Yes! Rush includes Custom branding. This feature helps you maintain your brand identity and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Rush include api access?",
+      "answer": "Yes! Rush includes API access. This feature helps you integrate with custom systems and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Rush include dedicated account manager?",
+      "answer": "Yes! Rush includes Dedicated account manager. This feature helps you get personalized service and support and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's included in the Jynx package?",
+      "answer": "The Jynx package includes Everything in Rush, White-label options, Custom integrations, 24/7 support for just $299/month. Perfect for High-volume businesses. Consider upgrading to Zynix for even more features.",
+      "category": "packages",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Jynx cost?",
+      "answer": "Jynx is $299/month with significant savings on annual plans. It includes 50000 monthly queries and everything you need to succeed.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Who is Jynx for?",
+      "answer": "Jynx is perfect for High-volume businesses. It provides the right balance of features and value for your business needs.",
+      "category": "packages",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Jynx include everything in rush?",
+      "answer": "Yes! Jynx includes Everything in Rush. This feature helps you improve your business operations and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Jynx include white-label options?",
+      "answer": "Yes! Jynx includes White-label options. This feature helps you resell under your own brand and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Jynx include custom integrations?",
+      "answer": "Yes! Jynx includes Custom integrations. This feature helps you connect with any system you need and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Jynx include 24/7 support?",
+      "answer": "Yes! Jynx includes 24/7 support. This feature helps you get help anytime you need it and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's included in the Zynix package?",
+      "answer": "The Zynix package includes Everything in Jynx, Enterprise integrations, Custom AI training, Dedicated technical support for just $599/month. Perfect for Large organizations. Consider upgrading to Kryon for even more features.",
+      "category": "packages",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Zynix cost?",
+      "answer": "Zynix is $599/month with significant savings on annual plans. It includes unlimited monthly queries and everything you need to succeed.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Who is Zynix for?",
+      "answer": "Zynix is perfect for Large organizations. It provides the right balance of features and value for your business needs.",
+      "category": "packages",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Zynix include everything in jynx?",
+      "answer": "Yes! Zynix includes Everything in Jynx. This feature helps you improve your business operations and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Zynix include enterprise integrations?",
+      "answer": "Yes! Zynix includes Enterprise integrations. This feature helps you connect with enterprise systems and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Zynix include custom ai training?",
+      "answer": "Yes! Zynix includes Custom AI training. This feature helps you train AI on your specific data and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Zynix include dedicated technical support?",
+      "answer": "Yes! Zynix includes Dedicated technical support. This feature helps you get expert technical assistance and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's included in the Kryon package?",
+      "answer": "The Kryon package includes Everything in Zynix, Full customization, Dedicated infrastructure, Success manager for just $999/month. Perfect for Enterprise clients. Consider upgrading to Custom for even more features.",
+      "category": "packages",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Kryon cost?",
+      "answer": "Kryon is $999/month with significant savings on annual plans. It includes unlimited monthly queries and everything you need to succeed.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Who is Kryon for?",
+      "answer": "Kryon is perfect for Enterprise clients. It provides the right balance of features and value for your business needs.",
+      "category": "packages",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Kryon include everything in zynix?",
+      "answer": "Yes! Kryon includes Everything in Zynix. This feature helps you improve your business operations and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Kryon include full customization?",
+      "answer": "Yes! Kryon includes Full customization. This feature helps you create exactly what you need and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Kryon include dedicated infrastructure?",
+      "answer": "Yes! Kryon includes Dedicated infrastructure. This feature helps you get maximum performance and reliability and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Does Kryon include success manager?",
+      "answer": "Yes! Kryon includes Success manager. This feature helps you get dedicated help to ensure success and provides excellent value.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides 24/7 availability and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with 24/7 availability?",
+      "answer": "AI chatbots excel at 24/7 availability by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of 24/7 availability?",
+      "answer": "24/7 availability directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides instant responses and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with instant responses?",
+      "answer": "AI chatbots excel at instant responses by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of instant responses?",
+      "answer": "instant responses directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides reduced support costs and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with reduced support costs?",
+      "answer": "AI chatbots excel at reduced support costs by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of reduced support costs?",
+      "answer": "reduced support costs directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides increased customer satisfaction and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with increased customer satisfaction?",
+      "answer": "AI chatbots excel at increased customer satisfaction by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of increased customer satisfaction?",
+      "answer": "increased customer satisfaction directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides lead generation and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with lead generation?",
+      "answer": "AI chatbots excel at lead generation by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of lead generation?",
+      "answer": "lead generation directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides sales conversion and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with sales conversion?",
+      "answer": "AI chatbots excel at sales conversion by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of sales conversion?",
+      "answer": "sales conversion directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides data collection and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with data collection?",
+      "answer": "AI chatbots excel at data collection by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of data collection?",
+      "answer": "data collection directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides analytics insights and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with analytics insights?",
+      "answer": "AI chatbots excel at analytics insights by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of analytics insights?",
+      "answer": "analytics insights directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides multilingual support and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with multilingual support?",
+      "answer": "AI chatbots excel at multilingual support by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of multilingual support?",
+      "answer": "multilingual support directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides scalability and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with scalability?",
+      "answer": "AI chatbots excel at scalability by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of scalability?",
+      "answer": "scalability directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides consistency and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with consistency?",
+      "answer": "AI chatbots excel at consistency by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of consistency?",
+      "answer": "consistency directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides cost savings and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with cost savings?",
+      "answer": "AI chatbots excel at cost savings by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of cost savings?",
+      "answer": "cost savings directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides time efficiency and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with time efficiency?",
+      "answer": "AI chatbots excel at time efficiency by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of time efficiency?",
+      "answer": "time efficiency directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides better customer experience and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with better customer experience?",
+      "answer": "AI chatbots excel at better customer experience by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of better customer experience?",
+      "answer": "better customer experience directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides competitive advantage and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with competitive advantage?",
+      "answer": "AI chatbots excel at competitive advantage by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of competitive advantage?",
+      "answer": "competitive advantage directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides business growth and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with business growth?",
+      "answer": "AI chatbots excel at business growth by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of business growth?",
+      "answer": "business growth directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides ROI improvement and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with ROI improvement?",
+      "answer": "AI chatbots excel at ROI improvement by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of ROI improvement?",
+      "answer": "ROI improvement directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides automation and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with automation?",
+      "answer": "AI chatbots excel at automation by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of automation?",
+      "answer": "automation directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides personalization and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with personalization?",
+      "answer": "AI chatbots excel at personalization by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of personalization?",
+      "answer": "personalization directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why do I need AI for my business?",
+      "answer": "AI provides engagement and helps your business grow. Our chatbots offer 24/7 availability, instant responses, and significant cost savings while improving customer satisfaction.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does AI help with engagement?",
+      "answer": "AI chatbots excel at engagement by providing instant, consistent responses 24/7. This leads to better customer experience and increased sales for your business.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the business impact of engagement?",
+      "answer": "engagement directly impacts your bottom line through increased sales, reduced costs, and improved customer satisfaction. Our AI chatbots deliver measurable results.",
+      "category": "ai_benefits",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers custom-built solutions that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer custom-built solutions?",
+      "answer": "Yes! NextEleven provides custom-built solutions as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's custom-built solutions compare to others?",
+      "answer": "NextEleven's custom-built solutions is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers dedicated support that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer dedicated support?",
+      "answer": "Yes! NextEleven provides dedicated support as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's dedicated support compare to others?",
+      "answer": "NextEleven's dedicated support is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers proven ROI that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer proven ROI?",
+      "answer": "Yes! NextEleven provides proven ROI as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's proven ROI compare to others?",
+      "answer": "NextEleven's proven ROI is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers 24/7 uptime that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer 24/7 uptime?",
+      "answer": "Yes! NextEleven provides 24/7 uptime as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's 24/7 uptime compare to others?",
+      "answer": "NextEleven's 24/7 uptime is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers industry expertise that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer industry expertise?",
+      "answer": "Yes! NextEleven provides industry expertise as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's industry expertise compare to others?",
+      "answer": "NextEleven's industry expertise is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers custom training that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer custom training?",
+      "answer": "Yes! NextEleven provides custom training as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's custom training compare to others?",
+      "answer": "NextEleven's custom training is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers white-label options that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer white-label options?",
+      "answer": "Yes! NextEleven provides white-label options as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's white-label options compare to others?",
+      "answer": "NextEleven's white-label options is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers API access that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer API access?",
+      "answer": "Yes! NextEleven provides API access as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's API access compare to others?",
+      "answer": "NextEleven's API access is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers dedicated account managers that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer dedicated account managers?",
+      "answer": "Yes! NextEleven provides dedicated account managers as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's dedicated account managers compare to others?",
+      "answer": "NextEleven's dedicated account managers is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers proven results that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer proven results?",
+      "answer": "Yes! NextEleven provides proven results as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's proven results compare to others?",
+      "answer": "NextEleven's proven results is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers comprehensive features that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer comprehensive features?",
+      "answer": "Yes! NextEleven provides comprehensive features as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's comprehensive features compare to others?",
+      "answer": "NextEleven's comprehensive features is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers scalable solutions that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer scalable solutions?",
+      "answer": "Yes! NextEleven provides scalable solutions as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's scalable solutions compare to others?",
+      "answer": "NextEleven's scalable solutions is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers ongoing optimization that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer ongoing optimization?",
+      "answer": "Yes! NextEleven provides ongoing optimization as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's ongoing optimization compare to others?",
+      "answer": "NextEleven's ongoing optimization is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers data security that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer data security?",
+      "answer": "Yes! NextEleven provides data security as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's data security compare to others?",
+      "answer": "NextEleven's data security is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers compliance support that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer compliance support?",
+      "answer": "Yes! NextEleven provides compliance support as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's compliance support compare to others?",
+      "answer": "NextEleven's compliance support is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers integration expertise that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer integration expertise?",
+      "answer": "Yes! NextEleven provides integration expertise as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's integration expertise compare to others?",
+      "answer": "NextEleven's integration expertise is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers performance monitoring that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer performance monitoring?",
+      "answer": "Yes! NextEleven provides performance monitoring as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's performance monitoring compare to others?",
+      "answer": "NextEleven's performance monitoring is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers custom development that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer custom development?",
+      "answer": "Yes! NextEleven provides custom development as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's custom development compare to others?",
+      "answer": "NextEleven's custom development is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers training and support that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer training and support?",
+      "answer": "Yes! NextEleven provides training and support as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's training and support compare to others?",
+      "answer": "NextEleven's training and support is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Why choose NextEleven over competitors?",
+      "answer": "NextEleven offers success guarantee that sets us apart. We provide custom-built solutions, not templates, with dedicated support and proven ROI for your business.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you offer success guarantee?",
+      "answer": "Yes! NextEleven provides success guarantee as part of our comprehensive service. This ensures you get the best possible results for your investment.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's success guarantee compare to others?",
+      "answer": "NextEleven's success guarantee is superior because we focus exclusively on chatbot solutions. Our expertise and dedication ensure you get the best results.",
+      "category": "competitive",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides custom vs template solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's custom vs template approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides custom vs template quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides ongoing support vs one-time delivery solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's ongoing support vs one-time delivery approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides ongoing support vs one-time delivery quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides proven results vs basic functionality solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's proven results vs basic functionality approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides proven results vs basic functionality quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides dedicated team vs freelancer solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's dedicated team vs freelancer approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides dedicated team vs freelancer quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides comprehensive solution vs basic chatbot solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's comprehensive solution vs basic chatbot approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides comprehensive solution vs basic chatbot quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides scalable vs limited solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's scalable vs limited approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides scalable vs limited quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides professional vs amateur solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's professional vs amateur approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides professional vs amateur quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides reliable vs inconsistent solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's reliable vs inconsistent approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides reliable vs inconsistent quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides optimized vs generic solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's optimized vs generic approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides optimized vs generic quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How is NextEleven different from Fiverr chatbots?",
+      "answer": "NextEleven provides supported vs abandoned solutions. Unlike Fiverr's basic templates, we offer custom-built, professionally supported chatbots with ongoing optimization and proven results.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven worth more than Fiverr?",
+      "answer": "Absolutely! NextEleven's supported vs abandoned approach delivers 10x the value of Fiverr solutions. You get professional support, custom development, and proven ROI.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What's the quality difference between NextEleven and Fiverr?",
+      "answer": "NextEleven provides supported vs abandoned quality that Fiverr can't match. Our professional approach ensures reliable, optimized solutions that grow with your business.",
+      "category": "fiverr_comparison",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Facebook integration?",
+      "answer": "Yes! NextEleven supports Facebook integration across all our packages. Higher-tier packages include more advanced Facebook integration capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Facebook integration work with NextEleven?",
+      "answer": "Facebook integration integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Facebook integration?",
+      "answer": "Facebook integration is available on Vibe and above packages. Contact us to discuss the best package for your Facebook integration needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Instagram integration?",
+      "answer": "Yes! NextEleven supports Instagram integration across all our packages. Higher-tier packages include more advanced Instagram integration capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Instagram integration work with NextEleven?",
+      "answer": "Instagram integration integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Instagram integration?",
+      "answer": "Instagram integration is available on Vibe and above packages. Contact us to discuss the best package for your Instagram integration needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support WhatsApp integration?",
+      "answer": "Yes! NextEleven supports WhatsApp integration across all our packages. Higher-tier packages include more advanced WhatsApp integration capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does WhatsApp integration work with NextEleven?",
+      "answer": "WhatsApp integration integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes WhatsApp integration?",
+      "answer": "WhatsApp integration is available on Vibe and above packages. Contact us to discuss the best package for your WhatsApp integration needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support SMS messaging?",
+      "answer": "Yes! NextEleven supports SMS messaging across all our packages. Higher-tier packages include more advanced SMS messaging capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does SMS messaging work with NextEleven?",
+      "answer": "SMS messaging integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes SMS messaging?",
+      "answer": "SMS messaging is available on Vibe and above packages. Contact us to discuss the best package for your SMS messaging needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Email integration?",
+      "answer": "Yes! NextEleven supports Email integration across all our packages. Higher-tier packages include more advanced Email integration capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Email integration work with NextEleven?",
+      "answer": "Email integration integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Email integration?",
+      "answer": "Email integration is available on Vibe and above packages. Contact us to discuss the best package for your Email integration needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Payment processing?",
+      "answer": "Yes! NextEleven supports Payment processing across all our packages. Higher-tier packages include more advanced Payment processing capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Payment processing work with NextEleven?",
+      "answer": "Payment processing integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Payment processing?",
+      "answer": "Payment processing is available on Vibe and above packages. Contact us to discuss the best package for your Payment processing needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Appointment scheduling?",
+      "answer": "Yes! NextEleven supports Appointment scheduling across all our packages. Higher-tier packages include more advanced Appointment scheduling capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Appointment scheduling work with NextEleven?",
+      "answer": "Appointment scheduling integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Appointment scheduling?",
+      "answer": "Appointment scheduling is available on Vibe and above packages. Contact us to discuss the best package for your Appointment scheduling needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Lead generation?",
+      "answer": "Yes! NextEleven supports Lead generation across all our packages. Higher-tier packages include more advanced Lead generation capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Lead generation work with NextEleven?",
+      "answer": "Lead generation integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Lead generation?",
+      "answer": "Lead generation is available on Vibe and above packages. Contact us to discuss the best package for your Lead generation needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Analytics dashboard?",
+      "answer": "Yes! NextEleven supports Analytics dashboard across all our packages. Higher-tier packages include more advanced Analytics dashboard capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Analytics dashboard work with NextEleven?",
+      "answer": "Analytics dashboard integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Analytics dashboard?",
+      "answer": "Analytics dashboard is available on Vibe and above packages. Contact us to discuss the best package for your Analytics dashboard needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Custom branding?",
+      "answer": "Yes! NextEleven supports Custom branding across all our packages. Higher-tier packages include more advanced Custom branding capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Custom branding work with NextEleven?",
+      "answer": "Custom branding integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Custom branding?",
+      "answer": "Custom branding is available on Vibe and above packages. Contact us to discuss the best package for your Custom branding needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support API access?",
+      "answer": "Yes! NextEleven supports API access across all our packages. Higher-tier packages include more advanced API access capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does API access work with NextEleven?",
+      "answer": "API access integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes API access?",
+      "answer": "API access is available on Vibe and above packages. Contact us to discuss the best package for your API access needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support White-label options?",
+      "answer": "Yes! NextEleven supports White-label options across all our packages. Higher-tier packages include more advanced White-label options capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does White-label options work with NextEleven?",
+      "answer": "White-label options integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes White-label options?",
+      "answer": "White-label options is available on Vibe and above packages. Contact us to discuss the best package for your White-label options needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Multilingual support?",
+      "answer": "Yes! NextEleven supports Multilingual support across all our packages. Higher-tier packages include more advanced Multilingual support capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Multilingual support work with NextEleven?",
+      "answer": "Multilingual support integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Multilingual support?",
+      "answer": "Multilingual support is available on Vibe and above packages. Contact us to discuss the best package for your Multilingual support needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Voice recognition?",
+      "answer": "Yes! NextEleven supports Voice recognition across all our packages. Higher-tier packages include more advanced Voice recognition capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Voice recognition work with NextEleven?",
+      "answer": "Voice recognition integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Voice recognition?",
+      "answer": "Voice recognition is available on Vibe and above packages. Contact us to discuss the best package for your Voice recognition needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Image recognition?",
+      "answer": "Yes! NextEleven supports Image recognition across all our packages. Higher-tier packages include more advanced Image recognition capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Image recognition work with NextEleven?",
+      "answer": "Image recognition integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Image recognition?",
+      "answer": "Image recognition is available on Vibe and above packages. Contact us to discuss the best package for your Image recognition needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Document processing?",
+      "answer": "Yes! NextEleven supports Document processing across all our packages. Higher-tier packages include more advanced Document processing capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Document processing work with NextEleven?",
+      "answer": "Document processing integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Document processing?",
+      "answer": "Document processing is available on Vibe and above packages. Contact us to discuss the best package for your Document processing needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support CRM integration?",
+      "answer": "Yes! NextEleven supports CRM integration across all our packages. Higher-tier packages include more advanced CRM integration capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does CRM integration work with NextEleven?",
+      "answer": "CRM integration integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes CRM integration?",
+      "answer": "CRM integration is available on Vibe and above packages. Contact us to discuss the best package for your CRM integration needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support E-commerce integration?",
+      "answer": "Yes! NextEleven supports E-commerce integration across all our packages. Higher-tier packages include more advanced E-commerce integration capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does E-commerce integration work with NextEleven?",
+      "answer": "E-commerce integration integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes E-commerce integration?",
+      "answer": "E-commerce integration is available on Vibe and above packages. Contact us to discuss the best package for your E-commerce integration needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Social media management?",
+      "answer": "Yes! NextEleven supports Social media management across all our packages. Higher-tier packages include more advanced Social media management capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Social media management work with NextEleven?",
+      "answer": "Social media management integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Social media management?",
+      "answer": "Social media management is available on Vibe and above packages. Contact us to discuss the best package for your Social media management needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you support Customer segmentation?",
+      "answer": "Yes! NextEleven supports Customer segmentation across all our packages. Higher-tier packages include more advanced Customer segmentation capabilities.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does Customer segmentation work with NextEleven?",
+      "answer": "Customer segmentation integrates seamlessly with NextEleven chatbots. We handle all setup and configuration to ensure smooth operation for your business.",
+      "category": "features",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Which package includes Customer segmentation?",
+      "answer": "Customer segmentation is available on Vibe and above packages. Contact us to discuss the best package for your Customer segmentation needs.",
+      "category": "features",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add Custom AI training to my package?",
+      "answer": "Yes! Custom AI training is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Custom AI training cost?",
+      "answer": "Custom AI training pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add Advanced analytics to my package?",
+      "answer": "Yes! Advanced analytics is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Advanced analytics cost?",
+      "answer": "Advanced analytics pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add Priority support to my package?",
+      "answer": "Yes! Priority support is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Priority support cost?",
+      "answer": "Priority support pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add Custom integrations to my package?",
+      "answer": "Yes! Custom integrations is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Custom integrations cost?",
+      "answer": "Custom integrations pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add White-label branding to my package?",
+      "answer": "Yes! White-label branding is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does White-label branding cost?",
+      "answer": "White-label branding pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add API access to my package?",
+      "answer": "Yes! API access is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does API access cost?",
+      "answer": "API access pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add Dedicated server to my package?",
+      "answer": "Yes! Dedicated server is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Dedicated server cost?",
+      "answer": "Dedicated server pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add Custom development to my package?",
+      "answer": "Yes! Custom development is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Custom development cost?",
+      "answer": "Custom development pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add Training sessions to my package?",
+      "answer": "Yes! Training sessions is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Training sessions cost?",
+      "answer": "Training sessions pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Can I add Ongoing optimization to my package?",
+      "answer": "Yes! Ongoing optimization is available as an add-on to any package for an additional monthly fee. This allows you to customize your solution perfectly.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How much does Ongoing optimization cost?",
+      "answer": "Ongoing optimization pricing varies based on your package and requirements. Contact us for a custom quote that fits your budget and needs.",
+      "category": "ala_carte",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What are your pricing options?",
+      "answer": "Our packages range from $19/month to $999/month with significant annual savings. We also offer custom enterprise solutions and a la carte features.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Is NextEleven pricing worth it?",
+      "answer": "Absolutely! Our clients typically see 300-500% ROI within 6 months. The cost savings and increased sales far exceed our pricing.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have options for different budgets?",
+      "answer": "Yes! We offer packages for every budget from $19/month to enterprise solutions. We'll work with you to find the perfect fit.",
+      "category": "pricing",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with healthcare businesses?",
+      "answer": "Yes! NextEleven has extensive experience in healthcare. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help healthcare?",
+      "answer": "NextEleven helps healthcare businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with e-commerce businesses?",
+      "answer": "Yes! NextEleven has extensive experience in e-commerce. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help e-commerce?",
+      "answer": "NextEleven helps e-commerce businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with real estate businesses?",
+      "answer": "Yes! NextEleven has extensive experience in real estate. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help real estate?",
+      "answer": "NextEleven helps real estate businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with professional services businesses?",
+      "answer": "Yes! NextEleven has extensive experience in professional services. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help professional services?",
+      "answer": "NextEleven helps professional services businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with retail businesses?",
+      "answer": "Yes! NextEleven has extensive experience in retail. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help retail?",
+      "answer": "NextEleven helps retail businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with restaurants businesses?",
+      "answer": "Yes! NextEleven has extensive experience in restaurants. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help restaurants?",
+      "answer": "NextEleven helps restaurants businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with fitness businesses?",
+      "answer": "Yes! NextEleven has extensive experience in fitness. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help fitness?",
+      "answer": "NextEleven helps fitness businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with education businesses?",
+      "answer": "Yes! NextEleven has extensive experience in education. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help education?",
+      "answer": "NextEleven helps education businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with finance businesses?",
+      "answer": "Yes! NextEleven has extensive experience in finance. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help finance?",
+      "answer": "NextEleven helps finance businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with legal businesses?",
+      "answer": "Yes! NextEleven has extensive experience in legal. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help legal?",
+      "answer": "NextEleven helps legal businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with consulting businesses?",
+      "answer": "Yes! NextEleven has extensive experience in consulting. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help consulting?",
+      "answer": "NextEleven helps consulting businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with manufacturing businesses?",
+      "answer": "Yes! NextEleven has extensive experience in manufacturing. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help manufacturing?",
+      "answer": "NextEleven helps manufacturing businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with technology businesses?",
+      "answer": "Yes! NextEleven has extensive experience in technology. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help technology?",
+      "answer": "NextEleven helps technology businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with non-profit businesses?",
+      "answer": "Yes! NextEleven has extensive experience in non-profit. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help non-profit?",
+      "answer": "NextEleven helps non-profit businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you work with government businesses?",
+      "answer": "Yes! NextEleven has extensive experience in government. Our AI adapts to your industry's specific needs and compliance requirements.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven help government?",
+      "answer": "NextEleven helps government businesses with customer service, lead generation, appointment scheduling, and compliance. We understand your industry's unique challenges.",
+      "category": "industries",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's RAG technology work?",
+      "answer": "NextEleven uses advanced RAG technology to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's AI training work?",
+      "answer": "NextEleven uses advanced AI training to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's data security work?",
+      "answer": "NextEleven uses advanced data security to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's API integration work?",
+      "answer": "NextEleven uses advanced API integration to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's customization work?",
+      "answer": "NextEleven uses advanced customization to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's scalability work?",
+      "answer": "NextEleven uses advanced scalability to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's performance work?",
+      "answer": "NextEleven uses advanced performance to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's uptime work?",
+      "answer": "NextEleven uses advanced uptime to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's backup work?",
+      "answer": "NextEleven uses advanced backup to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How does NextEleven's monitoring work?",
+      "answer": "NextEleven uses advanced monitoring to ensure optimal performance. Our technical team handles all setup and maintenance for you.",
+      "category": "technical",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "Is NextEleven secure?",
+      "answer": "Yes! NextEleven prioritizes data security and compliance. We use enterprise-grade security measures to protect your data and your customers' information.",
+      "category": "technical",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides 24/7 support and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include 24/7 support to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides dedicated account manager and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include dedicated account manager to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides training and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include training to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides documentation and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include documentation to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides phone support and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include phone support to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides email support and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include email support to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides chat support and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include chat support to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides onboarding and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include onboarding to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides optimization and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include optimization to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "NextEleven provides maintenance and comprehensive support. We're here to ensure your success with ongoing assistance and optimization.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "When is support available?",
+      "answer": "Support availability varies by package. Rush and above include maintenance to ensure you always have help when you need it.",
+      "category": "support",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "How long does setup time take?",
+      "answer": "setup time typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the setup time process?",
+      "answer": "Our setup time process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does onboarding process take?",
+      "answer": "onboarding process typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the onboarding process process?",
+      "answer": "Our onboarding process process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does training take?",
+      "answer": "training typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the training process?",
+      "answer": "Our training process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does integration take?",
+      "answer": "integration typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the integration process?",
+      "answer": "Our integration process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does testing take?",
+      "answer": "testing typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the testing process?",
+      "answer": "Our testing process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does launch take?",
+      "answer": "launch typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the launch process?",
+      "answer": "Our launch process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does optimization take?",
+      "answer": "optimization typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the optimization process?",
+      "answer": "Our optimization process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does maintenance take?",
+      "answer": "maintenance typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the maintenance process?",
+      "answer": "Our maintenance process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does updates take?",
+      "answer": "updates typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the updates process?",
+      "answer": "Our updates process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "How long does scaling take?",
+      "answer": "scaling typically takes 1-2 weeks depending on your package and requirements. We handle everything to ensure smooth implementation.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What's the scaling process?",
+      "answer": "Our scaling process is designed for your success. We provide step-by-step guidance and handle all technical aspects for you.",
+      "category": "implementation",
+      "upsell_potential": "medium"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve ROI calculation and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve cost savings and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve revenue increase and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve efficiency gains and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve customer satisfaction and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve success stories and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve case studies and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve metrics and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve analytics and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "What ROI can I expect?",
+      "answer": "NextEleven clients typically see 300-500% ROI within 6 months through cost savings, increased sales, and improved efficiency. We provide detailed analytics to track your success.",
+      "category": "roi",
+      "upsell_potential": "high"
+    },
+    {
+      "question": "Do you have success stories?",
+      "answer": "Yes! We have numerous success stories showing how NextEleven has helped businesses achieve performance and significant growth. Contact us for specific examples.",
+      "category": "roi",
+      "upsell_potential": "high"
+    }
+  ],
+  "total_entries": 412,
+  "categories": [
+    "support",
+    "fiverr_comparison",
+    "ai_benefits",
+    "roi",
+    "implementation",
+    "industries",
+    "technical",
+    "packages",
+    "ala_carte",
+    "competitive",
+    "pricing",
+    "features"
+  ],
+  "version": "2.0.0"
+}

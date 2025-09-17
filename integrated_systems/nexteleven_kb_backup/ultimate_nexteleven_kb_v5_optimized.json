@@ -1,0 +1,386 @@
+{
+  "knowledge": [
+    {
+      "question": "Who is the CEO of NextEleven Studios?",
+      "answer": "The CEO of NextEleven Studios is Sean F. McDonnell, who also serves as Founder, Designer, and Developer.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "CEO",
+        "Sean McDonnell",
+        "NextEleven",
+        "founder",
+        "leadership"
+      ]
+    },
+    {
+      "question": "What roles does Sean F. McDonnell hold in Blue9.0 development?",
+      "answer": "Sean F. McDonnell is the CEO, Founder, Designer, and Developer of Blue9.0, overseeing its architecture, design, and deployment.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "Sean McDonnell",
+        "CEO",
+        "founder",
+        "designer",
+        "developer",
+        "Blue9.0"
+      ]
+    },
+    {
+      "question": "Who leads the development team for Blue9.0?",
+      "answer": "Sean F. McDonnell leads the development team, ensuring code quality and feature alignment with product goals.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "development team",
+        "Sean McDonnell",
+        "code quality",
+        "product goals"
+      ]
+    },
+    {
+      "question": "Who ensures design consistency in Blue9.0?",
+      "answer": "Sean F. McDonnell oversees design consistency and user experience across the platform.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "design consistency",
+        "user experience",
+        "Sean McDonnell",
+        "platform"
+      ]
+    },
+    {
+      "question": "Who manages development sprints in Blue9.0?",
+      "answer": "Sean F. McDonnell oversees development sprints, prioritizing features and ensuring timely releases.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "development sprints",
+        "features",
+        "releases",
+        "Sean McDonnell"
+      ]
+    },
+    {
+      "question": "Who manages the AI model updates for Blue9.0?",
+      "answer": "Sean F. McDonnell oversees AI model updates to ensure accuracy, relevance, and performance.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "AI model updates",
+        "accuracy",
+        "performance",
+        "Sean McDonnell"
+      ]
+    },
+    {
+      "question": "Who is responsible for development in Blue9.0?",
+      "answer": "Sean F. McDonnell leads development as the primary Developer, overseeing code architecture, system integrations, and deployment pipelines.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "development",
+        "code architecture",
+        "system integrations",
+        "deployment",
+        "Sean McDonnell"
+      ]
+    },
+    {
+      "question": "Who is responsible for design decisions in Blue9.0?",
+      "answer": "Sean F. McDonnell leads design decisions as the Designer, ensuring cohesive UI/UX and brand consistency.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "design decisions",
+        "UI/UX",
+        "brand consistency",
+        "Sean McDonnell"
+      ]
+    },
+    {
+      "question": "Who is the CEO of Blue9.0?",
+      "answer": "Sean F. McDonnell is the CEO and founder overseeing strategic and technical direction.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "CEO",
+        "founder",
+        "strategic direction",
+        "technical direction",
+        "Sean McDonnell"
+      ]
+    },
+    {
+      "question": "Who manages the design team for Blue9.0?",
+      "answer": "Sean F. McDonnell oversees the design team to ensure intuitive and visually consistent interfaces.",
+      "category": "company_leadership",
+      "priority": "high",
+      "keywords": [
+        "design team",
+        "intuitive interfaces",
+        "visual consistency",
+        "Sean McDonnell"
+      ]
+    },
+    {
+      "question": "What is Blue9.0?",
+      "answer": "Blue9.0 is the latest enterprise AI platform developed by NextEleven Studios, designed for advanced RAG (Retrieval-Augmented Generation) and AI chatbot implementations.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "Blue9.0",
+        "enterprise AI platform",
+        "RAG",
+        "chatbot",
+        "NextEleven"
+      ]
+    },
+    {
+      "question": "What is a RAG engine in Blue9.0?",
+      "answer": "The RAG engine in Blue9.0 is a proprietary system that integrates retrieved information into AI-generated responses, allowing contextually accurate and up-to-date answers.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "RAG engine",
+        "retrieved information",
+        "AI responses",
+        "contextual accuracy"
+      ]
+    },
+    {
+      "question": "How customizable is Blue9.0's RAG engine?",
+      "answer": "Blue9.0's RAG engine is highly customizable, supporting multiple data sources, adjustable retrieval algorithms, and user-defined prompt templates.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "customizable",
+        "data sources",
+        "retrieval algorithms",
+        "prompt templates"
+      ]
+    },
+    {
+      "question": "Can Blue9.0 integrate with other platforms?",
+      "answer": "Yes, Blue9.0 can integrate with CRM systems like HubSpot and Salesforce, email, web chat, and other APIs through its flexible integration layer.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "integrate",
+        "CRM",
+        "HubSpot",
+        "Salesforce",
+        "email",
+        "web chat",
+        "APIs"
+      ]
+    },
+    {
+      "question": "What analytics features does Blue9.0 provide?",
+      "answer": "Blue9.0 provides analytics features including query counts, sentiment analysis, performance metrics, and detailed usage dashboards.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "analytics",
+        "query counts",
+        "sentiment analysis",
+        "performance metrics",
+        "dashboards"
+      ]
+    },
+    {
+      "question": "Does Blue9.0 support multi-modal inputs?",
+      "answer": "Blue9.0 supports text-based inputs and can be configured for multi-modal inputs depending on the deployment and integration setup.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "multi-modal",
+        "text inputs",
+        "deployment",
+        "integration"
+      ]
+    },
+    {
+      "question": "How secure is Blue9.0?",
+      "answer": "Blue9.0 implements metadata tagging, error handling, and optional sentiment validation, ensuring data security and accuracy.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "secure",
+        "metadata tagging",
+        "error handling",
+        "sentiment validation",
+        "data security"
+      ]
+    },
+    {
+      "question": "What support options are available for Blue9.0 users?",
+      "answer": "Support varies by package: basic email support, ticketing with 12-hour responses, or priority multi-channel support depending on the subscription tier.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "support",
+        "email",
+        "ticketing",
+        "multi-channel",
+        "subscription tier"
+      ]
+    },
+    {
+      "question": "Who can use Blue9.0?",
+      "answer": "Blue9.0 is designed for solopreneurs, small retailers, mid-sized e-commerce businesses, and enterprise clients depending on the subscription package.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "solopreneurs",
+        "small retailers",
+        "e-commerce",
+        "enterprise clients",
+        "subscription package"
+      ]
+    },
+    {
+      "question": "Can Blue9.0 be deployed on-premises?",
+      "answer": "Yes, Blue9.0 supports local, cloud, and hybrid deployments, depending on customer requirements.",
+      "category": "core_features",
+      "priority": "high",
+      "keywords": [
+        "deploy",
+        "on-premises",
+        "local",
+        "cloud",
+        "hybrid",
+        "customer requirements"
+      ]
+    },
+    {
+      "question": "What is the entry-level package for Blue9.0?",
+      "answer": "The entry-level package, called Zest, is for solopreneurs and small retailers, offering 1 bot, 1,000 queries per month, standard RAG, email/web chat integration, and basic analytics.",
+      "category": "package_pricing",
+      "priority": "critical",
+      "keywords": [
+        "Zest",
+        "entry-level",
+        "solopreneurs",
+        "small retailers",
+        "1 bot",
+        "1000 queries"
+      ]
+    },
+    {
+      "question": "What is the price of the Zest package?",
+      "answer": "The Zest package costs  per month or  per year.",
+      "category": "package_pricing",
+      "priority": "critical",
+      "keywords": [
+        "Zest",
+        "",
+        "monthly",
+        "",
+        "yearly"
+      ]
+    },
+    {
+      "question": "What is the Vibe package in Blue9.0?",
+      "answer": "The Vibe package targets growing businesses and mid-sized e-commerce, offering 2 bots, 5,000 queries per month, advanced RAG modes, CRM integration, and sentiment analysis.",
+      "category": "package_pricing",
+      "priority": "critical",
+      "keywords": [
+        "Vibe",
+        "growing businesses",
+        "e-commerce",
+        "2 bots",
+        "5000 queries",
+        "CRM integration"
+      ]
+    },
+    {
+      "question": "What is the price of the Vibe package?",
+      "answer": "The Vibe package costs  per month or  per year.",
+      "category": "package_pricing",
+      "priority": "critical",
+      "keywords": [
+        "Vibe",
+        "",
+        "monthly",
+        "",
+        "yearly"
+      ]
+    },
+    {
+      "question": "What is the Rush package?",
+      "answer": "Rush is a high-tier package providing advanced RAG modes, multiple bots, analytics dashboards, and priority support.",
+      "category": "package_pricing",
+      "priority": "critical",
+      "keywords": [
+        "Rush",
+        "high-tier",
+        "advanced RAG",
+        "multiple bots",
+        "analytics dashboards",
+        "priority support"
+      ]
+    },
+    {
+      "question": "What is the Jynx package?",
+      "answer": "Jynx is a mid-tier package providing enhanced RAG features, multiple bots, and intermediate analytics for growing businesses.",
+      "category": "package_pricing",
+      "priority": "critical",
+      "keywords": [
+        "Jynx",
+        "mid-tier",
+        "enhanced RAG",
+        "multiple bots",
+        "intermediate analytics"
+      ]
+    },
+    {
+      "question": "What is the Zynix package in Blue9.0?",
+      "answer": "Zynix is an advanced enterprise package offering unlimited bots, high query limits, multi-modal support, advanced analytics, and priority support.",
+      "category": "package_pricing",
+      "priority": "critical",
+      "keywords": [
+        "Zynix",
+        "enterprise",
+        "unlimited bots",
+        "high query limits",
+        "multi-modal",
+        "advanced analytics"
+      ]
+    },
+    {
+      "question": "What is the Kryon package in Blue9.0?",
+      "answer": "Kryon is an advanced enterprise package offering unlimited bots, high query limits, multi-modal support, advanced analytics, and priority support.",
+      "category": "package_pricing",
+      "priority": "critical",
+      "keywords": [
+        "Kryon",
+        "enterprise",
+        "unlimited bots",
+        "high query limits",
+        "multi-modal",
+        "advanced analytics"
+      ]
+    }
+  ],
+  "version": "5.0.0",
+  "description": "NextEleven Blue9.0 Ultimate Production Knowledge Base - Optimized for RAG Performance",
+  "metadata": {
+    "total_entries": 28,
+    "categories": {
+      "company_leadership": 10,
+      "core_features": 10,
+      "package_pricing": 8
+    },
+    "optimization_level": "production_ready",
+    "last_updated": "2025-09-16T04:13:01.781735Z",
+    "priority_distribution": {
+      "critical": 8,
+      "high": 20,
+      "medium": 0,
+      "low": 0
+    }
+  }
+}

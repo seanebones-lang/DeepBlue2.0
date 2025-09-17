@@ -1,0 +1,126 @@
+# DeepBlue 2.0 Ultimate 100/100 Dockerfile
+# Multi-stage build with latest technology stack
+
+# Stage 1: Base image with latest Ubuntu
+FROM ubuntu:24.04 AS base
+
+# Set environment variables
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV NODE_ENV=production
+ENV NODE_VERSION=20.11.0
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    curl \
+    wget \
+    git \
+    build-essential \
+    software-properties-common \
+    ca-certificates \
+    gnupg \
+    lsb-release \
+    && rm -rf /var/lib/apt/lists/*
+
+# Stage 2: Python environment
+FROM base AS python-deps
+
+# Install Python 3.12
+RUN add-apt-repository ppa:deadsnakes/ppa && \
+    apt-get update && \
+    apt-get install -y python3.12 python3.12-dev python3.12-venv python3-pip
+
+# Create virtual environment
+RUN python3.12 -m venv /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
+
+# Copy requirements and install Python dependencies
+COPY requirements_ultimate_100.txt /tmp/
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r /tmp/requirements_ultimate_100.txt
+
+# Stage 3: Node.js environment
+FROM base AS node-deps
+
+# Install Node.js 20
+RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
+    apt-get install -y nodejs
+
+# Install Yarn
+RUN npm install -g yarn
+
+# Copy package files
+COPY package_ultimate_100.json /tmp/package.json
+COPY frontend/package.json /tmp/frontend/package.json
+
+# Install Node.js dependencies
+WORKDIR /tmp
+RUN npm install --production
+
+# Stage 4: Frontend build
+FROM node-deps AS frontend-build
+
+# Copy frontend source
+COPY frontend/ /app/frontend/
+WORKDIR /app/frontend
+
+# Install dependencies and build
+RUN npm install && \
+    npm run build
+
+# Stage 5: Backend build
+FROM python-deps AS backend-build
+
+# Copy backend source
+COPY . /app/
+WORKDIR /app
+
+# Install additional Python dependencies
+RUN pip install --no-cache-dir -r requirements_ultimate_100.txt
+
+# Stage 6: Final image
+FROM base AS final
+
+# Install runtime dependencies
+RUN apt-get update && apt-get install -y \
+    python3.12 \
+    python3.12-venv \
+    nodejs \
+    npm \
+    nginx \
+    supervisor \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy Python environment
+COPY --from=python-deps /opt/venv /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
+
+# Copy Node.js environment
+COPY --from=node-deps /tmp/node_modules /app/node_modules
+COPY --from=node-deps /tmp/package.json /app/package.json
+
+# Copy application code
+COPY --from=backend-build /app /app
+COPY --from=frontend-build /app/frontend/dist /app/frontend/dist
+
+# Set working directory
+WORKDIR /app
+
+# Create non-root user
+RUN useradd -m -u 1000 deepblue && \
+    chown -R deepblue:deepblue /app
+
+# Switch to non-root user
+USER deepblue
+
+# Expose ports
+EXPOSE 8000 3000 80 443
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
+    CMD curl -f http://localhost:8000/health || exit 1
+
+# Start command
+CMD ["python", "api/main.py"]
+
